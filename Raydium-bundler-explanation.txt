@@ -1,0 +1,75 @@
+About Raydium Bundler
+
+
+
+Settings.ts
+
+tokens: you can set the name, symbol, decimals, description, uiAmount ....
+In terms of constants of settings, there is explanation above in the settings.ts file.
+swapSolAmounts : you can set the amount of solana for 21 wallets, so main wallet will deposit that amount of solana to those wallets, and bundler wallets will buy the token with that amount.
+If you are not sure about settings, then don't change the value and leave it as default settings.
+
+
+
+1. Create Token
+
+This is the step for token creation to use in Pool creation.
+To create the pool, you need to create the token first and deposit it to the new Pool in Raydium.
+
+2. Create Market
+
+This is the step for market creation for your pool.
+This is also required step to create the pool in Raydium.
+
+3. Security Checks
+
+This is the step for raising the security of the token you created.
+ - Remove Mint Authority
+     This is the step for revoking the mint authority of the token, nobody cannot mint the token anymore.
+ - Remove Freeze Authority
+     This is the step for revoking the freeze authority of the token, nobody cannot freeze the AssociatedTokenAccounts of your token, so everybody can freely buy and sell your token.
+
+4. Create Wallets to BundleBuy
+
+This is the step for creating 21 bundler wallets to buy back your token from the pool you are launching.
+In this step, you will transfer solana to those wallets and create Atas for token and Wsol.
+
+5. Create LookUpTable
+
+This is the step for creating LookUpTable.
+LookUpTable is making the transaction size small, so can buy with 21 wallets.
+If you buy back big portion of tokens with small number of wallets, then traders don't want to buy that token, cuz there is possibility of rug pull of that buyer.
+
+6. Extend LookUpTable and Simulate
+
+This is the step for adding account addresses which will used in transactions and simulate the success or failure of the transactions.
+
+7. Create Pool and BundleBuy
+
+This is the step for pool creation and bundle buy.
+
+8. Burn LP token
+
+This is the step for burning LP token of your pool.
+This is also one of important step, cuz buyers will not buy if your pool didn't burn LP token, pool launcher will remove liquidity from the pool and get all Solana in the pool.
+If you burn LP token, then you cannot remove liquidity.
+
+9. Sell all tokens
+
+This is the step for selling all tokens in your bundler wallets after the price of the token increases.
+
+10. Gather Sol from bundler wallets
+
+This is the step for gathering all solana and Wsol from bundler wallets.
+
+(!Caution!)
+Be careful of running the code, this is the bundler which requires good experience and patience.
+You have to check the success of every step and then go to next step.
+If you don't do like that, then you will get failure in the next step.
+That's because you have some error in the previous steps.
+And If you have problems in running, don't do like what want to do.
+Please ask me.
+I will check and find the reason of it.
+Ofc, many clients are using this and have some difficulties to get familiar with this.
+But after 2 or 3 times of successful running, then you will get used to it and will be happy.
+If you have some inconvenience, then let me know, I will update it like what you want.
