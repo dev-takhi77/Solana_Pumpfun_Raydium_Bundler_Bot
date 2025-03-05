@@ -1,0 +1,7 @@
+.env
+config.ts
+
+node_modules/
+node_modules/*
+
+data.json
