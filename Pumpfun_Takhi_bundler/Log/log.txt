@@ -1,0 +1,713 @@
+
+1.000015002 Sol in Main Wallet
+Distributing SOL to wallets...
+Mint Wallet is created. Mint wallet address: 39jF6GCGWtMXVULmZ3nVkZqXHwqrniRjxBiXP8BhW2xc 
+
+EH7fShMoQWsbCpJ3BBGGn7ejxQMLNAdTLU1CXiQVcYzH has 0.057 sol
+FPAbKsHmYJqdPNRNYNtPs71hzb4TvAk7LY7ggRheKtGz has 0.037 sol
+7Jt3xVVyrF4TAhFWmLe1cfdmeKCRG9Ks4wBFaWiT3K8F has 0.058 sol
+BS1oVJFVfDUQsNczbjFjhvHTdPkLEjvMJTewEspz8p7b has 0.058 sol
+GNviZMgARq5d8cGPyRbNW5gxoaoazkCRDVdSZKx9QLUM has 0.054 sol
+3Dx9JmH2PHFsw3Rrz9J56Crd4KFiw9JHuoQkMa7RQEds has 0.05 sol
+J2pTZqcsTEFRWd9P3j7w56GiE2ZYarujL6PnR4T7mYwP has 0.043 sol
+G8FAf2pBCevK1DCCtVdd3oFYUTurs5XFtzzo1t7bcSV7 has 0.028 sol
+72Z2ZTdajn1o4GNAQasUzxuEvYjCfe4mzJaxGFsvWcv1 has 0.045 sol
+6vo4WcSbtHsymwVee5DrdQ7y1xrdh6nrqMSkiz3mo3sy has 0.048 sol
+DzDCmfSxZKQB5MWY7FHnzs8eDyYgpKgeSnMSj88m711f has 0.06 sol
+Dm3VVVnSxmk5XUGgzUye7dVjjN8CpVeupbhcsfM79mck has 0.036 sol
+H4jcL899jDh57UTNzRNdWDCUyVfKPjDhK7KXp9ZE3QeU has 0.044 sol
+5PL78CbgJZDFgjSLngoADBY8hg55i3GdFjCUQEu1gGox has 0.018 sol
+FnxZjp7QTgeskzLrpCTN8ZdEPtdcBp1amKqLhZUwKwpc has 0.031 sol
+DKFVJN7tDcuQkNR9AKhfDZ75j3iqkzGCYwTu8aakKQ7s has 0.053 sol
+AZgJN8tDn8diwWqTMJCmjqBy4ApkKPAJT7Gxs43YdjEb has 0.058 sol
+1R9jbeBMqwDMY1zcncCS3Eyk8jTcAia6xYvBwa1aoSX has 0.057 sol
+FPzG2CQeK68pmvrRcb24JUD2wXtq1anNPWhxEMwf7No5 has 0.024 sol
+4rZagzKmfvLbfaYb2hHmb6XHBihYBDbt5531kDLWDTcR has 0.041 sol
+Success in distribution
+
+Creating LUT started
+Lookup Table Address created successfully!
+Please wait for about 10 seconds
+LUT Address: 6Kc6ox8W7YmbmSUSsGdZ5N83iLLjFp5613ExFHrHeAKA 
+
+Successfully added wallet addresses.
+Adding atas for the token 3wkyVCBSt1pA9soATYcxC3WKbQJqP8qzd85aoW8Q17zK
+Base atas address num to extend: 20
+Successfully added base ata addresses.
+Successfully added main wallet address.
+Lookup Table Address extended successfully!
+Lookup Table Entries: https://explorer.solana.com/address/6Kc6ox8W7YmbmSUSsGdZ5N83iLLjFp5613ExFHrHeAKA/entries
+New Mint Address: https://solscan.io/account/3wkyVCBSt1pA9soATYcxC3WKbQJqP8qzd85aoW8Q17zK
+Create token and Buy jito signature: https://explorer.jito.wtf/bundle/2bRsLaZLiUY2xLThFczvzX5aJoHnhB2zg9cGyZowhmnTqSraw1CpcFrFEdCBfKXK1EN5PQvkUWH48ozW2dDLfnCQ
+Gathering wallets processing is ended!
+Gathering wallets processing is ended!
+Sell jito signature: https://explorer.jito.wtf/bundle/2qcjV5WPEZ8ufYeXqWHTLugwumXfMrkg7tbEwsj8QJyHoAXrFCvnMEr3h41suTNLBnutzUYjBTKkvpaP2pqvs7yW
+Wallet address & balance : FPAbKsHmYJqdPNRNYNtPs71hzb4TvAk7LY7ggRheKtGz, 0
+Wallet address & balance : EH7fShMoQWsbCpJ3BBGGn7ejxQMLNAdTLU1CXiQVcYzH, 0
+Wallet address & balance : 7Jt3xVVyrF4TAhFWmLe1cfdmeKCRG9Ks4wBFaWiT3K8F, 0
+Wallet address & balance : BS1oVJFVfDUQsNczbjFjhvHTdPkLEjvMJTewEspz8p7b, 0
+Wallet address & balance : GNviZMgARq5d8cGPyRbNW5gxoaoazkCRDVdSZKx9QLUM, 0
+Wallet address & balance : J2pTZqcsTEFRWd9P3j7w56GiE2ZYarujL6PnR4T7mYwP, 0
+Wallet address & balance : 3Dx9JmH2PHFsw3Rrz9J56Crd4KFiw9JHuoQkMa7RQEds, 0
+Wallet address & balance : G8FAf2pBCevK1DCCtVdd3oFYUTurs5XFtzzo1t7bcSV7, 0
+Wallet address & balance : 72Z2ZTdajn1o4GNAQasUzxuEvYjCfe4mzJaxGFsvWcv1, 0
+Wallet address & balance : 6vo4WcSbtHsymwVee5DrdQ7y1xrdh6nrqMSkiz3mo3sy, 0
+Wallet address & balance : DzDCmfSxZKQB5MWY7FHnzs8eDyYgpKgeSnMSj88m711f, 0
+Wallet address & balance : Dm3VVVnSxmk5XUGgzUye7dVjjN8CpVeupbhcsfM79mck, 0
+Wallet address & balance : H4jcL899jDh57UTNzRNdWDCUyVfKPjDhK7KXp9ZE3QeU, 0
+Wallet address & balance : 5PL78CbgJZDFgjSLngoADBY8hg55i3GdFjCUQEu1gGox, 0
+Wallet address & balance : FnxZjp7QTgeskzLrpCTN8ZdEPtdcBp1amKqLhZUwKwpc, 0
+Wallet address & balance : DKFVJN7tDcuQkNR9AKhfDZ75j3iqkzGCYwTu8aakKQ7s, 0
+Wallet address & balance : AZgJN8tDn8diwWqTMJCmjqBy4ApkKPAJT7Gxs43YdjEb, 0
+Wallet address & balance : 1R9jbeBMqwDMY1zcncCS3Eyk8jTcAia6xYvBwa1aoSX, 0
+Wallet address & balance : 4rZagzKmfvLbfaYb2hHmb6XHBihYBDbt5531kDLWDTcR, 0
+Wallet address & balance : FPzG2CQeK68pmvrRcb24JUD2wXtq1anNPWhxEMwf7No5, 0
+Closed and gathered SOL from fund wallets 1 : https://solscan.io/tx/5WrYE8QVsAooQiPQqyQkypJPv7ad5oQxd7tDdKwVfKJkck2eQCghi4gCBDC7rLZMgZszNYZL4qkihgkYxHrSLFQk
+Closed and gathered SOL from fund wallets 7 : https://solscan.io/tx/5qR7qVrGCt31m16K13KVE6UQr1kFxf1yropj9YnWZmrj7Gr9fB4XfVjGLaoQHWJ2UxCPLPTQ5UsrFPsnCfX8UpJn
+Closed and gathered SOL from fund wallets 3 : https://solscan.io/tx/2D3JjY1Ph3a9HcwCzwCL2u5xDxm89QLZ7c7w1ec2y4WYTww6Zf2Sa2kCW9KV1SnnV31rp73mk8SJyAUqbFhugWrA
+Closed and gathered SOL from fund wallets 2 : https://solscan.io/tx/3zGoUPFdNNrcuUnmm76Zmvd9zaCYRQ9rnKMfeDQCfdsJwpXMyaVQHak1v1bmmXJxwbC3Fi7V5JL1MWTSEQxF2cG8
+Closed and gathered SOL from fund wallets 5 : https://solscan.io/tx/2m7s2WgxPhkFTzHgtVSXAtZ4X3wPZEeFiUJpvhqX1mTXKQHMntjojomEThyZxXFGCKkq7iqgjKiKr56ZMw9iVkGX
+Closed and gathered SOL from fund wallets 4 : https://solscan.io/tx/L1YuYxWGbKoyL5LDsqKNF417wH8zbPUPgaz5rU8JWETQkswS37V9uJXKPz6ur96JYeFYwkvyJ6VaxCAqyESbkTQ
+Closed and gathered SOL from fund wallets 12 : https://solscan.io/tx/Dg1g9RThhJUv9NpvJd3XZCtkLK4N5z7x7Fj4X3JjYhxWBwdpbwUe9RzLGuHZzGDnSWn6BbjH4oqS4Uusga9wzD4
+Closed and gathered SOL from fund wallets 6 : https://solscan.io/tx/3w522BecdeveatMN6Aakro3Ff3SXFVG4L3Q32TuTFRWnqNockH9tthLrtcrSx6SxCSE6GzqrocSw78m2Nj2LVpKe
+Closed and gathered SOL from fund wallets 8 : https://solscan.io/tx/27gX35N1cGtHAJAnTYkGQR1aBSB2EW41aVmapQsg2cWLGiqs8jn7FTqRgTmjv78yffQdRo5PNAAaX3f4qAPjRz87
+Closed and gathered SOL from fund wallets 18 : https://solscan.io/tx/84JLPjwUKQKXiZhFF6p8p5mRwnoutvNG23DLT7Czx3hZLc4sFgtfepHeNAfNRFXCaRXbJCZoLmLaXwPvusEahy7
+Closed and gathered SOL from fund wallets 17 : https://solscan.io/tx/5ZgLJ45Luv9QbvzuKPFgszqbDjYAurXTBfCN6ZuMKinjb5yf2ohoh6WwQgEHGDVkei6YupLPMocrTBapAbUfqaos
+Closed and gathered SOL from fund wallets 0 : https://solscan.io/tx/5XJYLVe3nazdc1LpPdGRfmv8rJWfJv4onASWFMXjYcY9w8y2io4cBxmFhZ8TQYsB3N7FFXe46ZnzsuEswybqeMPy
+Closed and gathered SOL from fund wallets 15 : https://solscan.io/tx/2UK8GeV5Z6LXXoywh3ERPHZfSufwzHGVwrqT6BYDkbGhN6BU6eDkCGvW6NpZgE8rfENycQHS2Z1tjJvrBf4HMjey
+Closed and gathered SOL from fund wallets 10 : https://solscan.io/tx/3YFrxXNARyGPFkEubebT5yVfWVvbNmmznM92Pt2RZhKRTD35cmsLWEXw2wMpriURtqgGCZFuFDzyDR6LZ4KAuRc6
+Closed and gathered SOL from fund wallets 19 : https://solscan.io/tx/4oz1KokuYwsF6QKhFjEP8ri3fpBjBoAduPFxaFHMm7N2yqPiZrFVRLjZoBMYqjJdgM6v3YSHF8u5fgAB4bvFuFyz
+Closed and gathered SOL from fund wallets 16 : https://solscan.io/tx/2qVcMRtxRmkvVTbH4ZbPwQcmAW8yW1bAhSuuEpCGfqXMJsuQdbsy4nFe9EeTqz7jjcq8gX3ePGALmGgnDKuzyn7C
+Closed and gathered SOL from fund wallets 13 : https://solscan.io/tx/2NqKhwZdnoYiRS83XCX6bkNdgstv6jByknDyXoZ559xKJM5NYgsS4BWYeadhnozgi1iFLeVncBL2djR3XdfAHStY
+Closed and gathered SOL from fund wallets 14 : https://solscan.io/tx/3hwYvRMU4s28up7o2fPPHRrMx7G3wTEuL4oniMTDsMCHGtr4tj1qhx3XfnaogZvVi577Lqsq9ZrczaGaZfVnkBK2
+Closed and gathered SOL from fund wallets 11 : https://solscan.io/tx/MzrsVTpyV5NKWJNvRVHUHFJ3aY31SKLDni9QH1Vvj5XUndsBsYyvwbrQgfgxii87mNWjncYcqr2cwc9VqEEmcwA
+Closed and gathered SOL from fund wallets 9 : https://solscan.io/tx/61P9tDBK134Faf9m71rnK4oVuBbjXLnd1RGca2AJ9Mio9P6LrJ8SE6KnpSAyt2ioVmzoFbTZWjvC9SBX2g4zqkfq
+Gathering wallets processing is ended!
+Gathering wallets processing is ended!
+Gathering wallets processing is ended!
+0.2 Sol in Main Wallet
+Distributing SOL to wallets...
+Mint Wallet is created. Mint wallet address: 39jF6GCGWtMXVULmZ3nVkZqXHwqrniRjxBiXP8BhW2xc 
+
+9pAxbe7XiGxkuiZham5uvrEGAff4pa5RR6EJ3jwehNm5 has 0.009 sol
+DM51bsrgLtCaVkwWrVgyHs9BmAc44eo56Biz2KaqMstL has 0.007 sol
+F2PTvWmENU4Xy43uZy5rmSRi5EcnYXWsKqF9YiKSa51P has 0.009 sol
+EUBATZYKkPgf2VN6mU3PMv7TdjLSuGpuyL4xCyiQBAes has 0.005 sol
+BswQbLmuKBC9n1Pc28RfZWvioWs3obrAhBZUf7nrVCCj has 0.007 sol
+G82VJ3BFdazXykMWZa56xcaiM1REDvrMMtaf7bU7iX2Y has 0.009 sol
+2Z6NjRY7UsNn6z9TtawUcLcZas8hx2uMco6w2RhuTwGv has 0.007 sol
+3XuPf9edqrBwN2PjVSdHBKV923FX5r9GWFWMiCTFkkWm has 0.009 sol
+Cd6Y94P4AXs9GYkLWWn2782tiu7y54AQW4N2TD1HM8Dp has 0.009 sol
+7ySdvERpamNZHMiJWRThZxWuJRG5wCVfLY9oWcpHsbub has 0.009 sol
+9MqcAvHWhU3puHyULHjgkEWU3HevcBGSseu3RE8TG4A4 has 0.008 sol
+H4FXHBQubNMpoCir62UTdbE7m4stWd8fbXrQ8qTjNvAE has 0.009 sol
+B4UfSxwFyLeQwBKkihLLx3d3eRq1x8CsTyyB4DwkKuo4 has 0.006 sol
+CcJgQh6GtS1NYUS2sENKWdAbvJrqpE5eNe1DMHEFkzpm has 0.009 sol
+6NFErd7RxVQExgM6Rxb4UpnXGwWqCRigMWWhJ1ADGkjJ has 0.007 sol
+5j14ssmrMrARK8ZGHSYv668SkrGSMZ9LL8E7p5nzgmnz has 0.009 sol
+9aJJD3tHbd97vLTWtAoeJJjVFbp6giDsvNUxGJouSjme has 0.009 sol
+7XHv74aSBEjpmDZjhvti2Zj3DyA1boRbaVtFUQwgz8Gu has 0.009 sol
+DBz8jHZKsWFYpGxszeuNDPt1qpkLfCkeizDkC5FUqkSS has 0.008 sol
+BsA9ooLm2MunWQyuKymfwPNcHinkHhAyzwTkNiasopDj has 0.006 sol
+Success in distribution
+
+Creating LUT started
+Error in creating Lookuptable. Retrying.
+Error in creating Lookuptable. Retrying.
+Error in creating Lookuptable. Retrying.
+Error in creating Lookuptable. Retrying.
+Error in creating Lookuptable. Retrying.
+Error in creating Lookuptable. Retrying.
+LUT creation failed, Exiting...
+Lut createion failed
+Closed and gathered SOL from fund wallets 8 : https://solscan.io/tx/5kSQEHX82nQFHSyTdcJcbMpKZMRNQSWY2yLz6Bpt6RWcHik7KkY91s3BaLNWxESFU7qgRsmMGZcnh6RXhBv9RBfd
+Closed and gathered SOL from fund wallets 7 : https://solscan.io/tx/5na5pTNDR9Z3cNvoC8HBsQu4nuDghB1EwpsxDsR35J3dE94mZC1DRAdwzP3H9RicXRG3p5qtyfMBj6eAktQzsXyS
+Closed and gathered SOL from fund wallets 3 : https://solscan.io/tx/cPTJCdmv6SqYJd5bRxmcHjr9YFc3Fgnpga5xveZw8yVD3bLSKep7sR469RASkUfHv72S1xUzVxDLcmosPyHYAZk
+Closed and gathered SOL from fund wallets 13 : https://solscan.io/tx/4ZpwKMgq8ZBSVRZRQaiupX6uEbqoh4hjvj4AadnSorzhWD5rX2qwwpwD8ruqVYt5SSjNzvRaRrhHonmNPeWSUdpj
+Closed and gathered SOL from fund wallets 11 : https://solscan.io/tx/5LjUuy2pmdRmpTuNx6pwPmFZPMUwcuyLKjcgpZK89KanNQWXGHBczvBzmweLFmASYL4vxhfDyTN9La5yKTFq1Nfq
+Closed and gathered SOL from fund wallets 5 : https://solscan.io/tx/5FT9sew5LzQ7hnaVYYmdojqBzjpWL6agXbrukurtye13BdtZWWkTgQwRtS8CEDjGi5bNw8MWUgxwdyGZjr1ZjLeb
+Closed and gathered SOL from fund wallets 2 : https://solscan.io/tx/YkYEtMkUrWwYucuEBLrzH3YHWdizugoQTQmk8rDZsJK5Ms6NBCSMtPJea9jM2EjtLrFaRe8J6NZmUnePD63kjF2
+Closed and gathered SOL from fund wallets 1 : https://solscan.io/tx/5uMwYnun5PXEnaNTADbbo5o4Nb6N3WEKQQMEVNLznopfzeNiUD7269w4Fn7koP4UiPcrCZLEMJyoXKoCZbhpnJUB
+Closed and gathered SOL from fund wallets 14 : https://solscan.io/tx/43m45DoXxHkdksibxMFG9kPQvZNvjEZNWjUP5FSouTkB1XUHbYwekZNnQwivHUhfhDGQmpm6wLchPc1VMkz5Vu4A
+Closed and gathered SOL from fund wallets 0 : https://solscan.io/tx/2B79XDefcAs3UkDvLCY2bWPhe4Tcyxbv1sf51u4TL8MKGy2VsDTiz7CAvWyEQ4obU9P3MnYSBa3VHhu1CgEgnjZ5
+Closed and gathered SOL from fund wallets 6 : https://solscan.io/tx/4coBWCkhDK3LpwNGDLpGy4AGpkX13xHsdXSZ3Hkt5vUeXAsVMmR4M7YLCMEGMjW35SpjWpgqhS7UBqP56ZGd5e1F
+Closed and gathered SOL from fund wallets 4 : https://solscan.io/tx/5gmKR8ftrXp6xD9h9bQQURPHpZSYboCKvrvhhfsmK6ei4DyPyL8YpV6Kayz8vwDbteRDXohd5S9Evkn3cAyiHZCv
+Closed and gathered SOL from fund wallets 12 : https://solscan.io/tx/2d2H7Vt2Q9qcUR2D4HBZPQXbmbzzH811ozLMTvDE77qhWfE2tb8jAjJWPcB7MjaZbeDc31Z64CRzFbVj98ciYYxv
+Closed and gathered SOL from fund wallets 10 : https://solscan.io/tx/23VdcWm8pHLb31oDyo5797dsrxxoq7RkfeKgQJBxWiz8xqL1z4bLBsrHWvTJDNcaHg1UZaemmzWEYPcvbYhgiWnj
+Closed and gathered SOL from fund wallets 9 : https://solscan.io/tx/61xmZCiiHhVkq5zfb1ThSBg5Nbe9z9awfhugX3kKUj8gjTUaYqLdjNh6vmmPP7Sfwd9qtcaLVKTu5P8LiezBGoPu
+Closed and gathered SOL from fund wallets 19 : https://solscan.io/tx/3TypSybVzphcoN5ghiiyt7D8o55f33peMeWga15mPy9X5b57ZjVvAJLoWzo3RCXdd9S82vnesL6iynrjyq9wBMe
+Closed and gathered SOL from fund wallets 15 : https://solscan.io/tx/KDh17qwPhkrtGNKM7NV2v9DJetRQAYV3vxD5QFK5FsND384974ND7n2ADGafWkgPB3bFjh8uacAe6QgSsWt3r7k
+Closed and gathered SOL from fund wallets 18 : https://solscan.io/tx/3gGm7ZycincSNug5Bpx3mJPX9hpxa3uBDq454VmXCHGvPARtMewSwcum2T6n9VLTWnnqHMDqAks3PWVkxBDSy3gT
+Closed and gathered SOL from fund wallets 16 : https://solscan.io/tx/2K4HREJdd7RcgKec6NN7qYjCNgYQ515Znm78YvvQaHFPVzwkSthW7dYess5zifgcMLhTqr1Y6mtB74Y4E6wtkTge
+Closed and gathered SOL from fund wallets 17 : https://solscan.io/tx/36o7esDGHjXHj6gBqNzmiWBUT8de3tXW5MiD71aA2JFxZFdVskTnSUF4LVTuEB5yTLzEcX6626Yu4xHc7JSKUphe
+Gathering wallets processing is ended!
+Main Wallet  39jF6GCGWtMXVULmZ3nVkZqXHwqrniRjxBiXP8BhW2xc has 0.198171666 sol
+External Wallet: x5sxY9LXBe7TefWVpD1iXpoBUoJoynmRW3vubzhoqCB RemainAmount 0.1
+0.09817166599999999 sol transfering to ExternalWallet from MainWallet is successful.
+0.198095 Sol in Main Wallet
+Distributing SOL to wallets...
+Mint Wallet is created. Mint wallet address: 39jF6GCGWtMXVULmZ3nVkZqXHwqrniRjxBiXP8BhW2xc 
+
+CsuQYVuFrJh1NBhsDppZ8Mh7Gi1unVg7pZEZcHZRaerM has 0.008 sol
+FhUaXbqS12Qm9KM3mDuEETZRaaj9gvK5ErriGvUpfLHt has 0.009 sol
+CtazEwftnZ7dY1ABdcVmE4G8vBZSjaE8BdvYLrwGNMvZ has 0.009 sol
+5KHwVZFPmwUwnZhTmWNQimFqorVfx1HggpN49hxodmPF has 0.008 sol
+D9HGN6qo8m2TtWDYowrZHrZ6Vzgho5a9e5zW6rPZgK3R has 0.008 sol
+EoXx17g8xzAdU1opngoujGQ2bpfQKgvhdQhPWR6Wn145 has 0.005 sol
+AzUPgev4A78AfgFxJ7MBdL7zkdx2YbdLNCxfTgQf4NoG has 0.006 sol
+2y5MAmnfLU9edAQqSnZ7QdB4WggfXCNCw1ZeJnxGB9sR has 0.009 sol
+4eG7yhLuoGbkKwVn4LS1gW2TbWCCmKQgeyx76RAcW3qd has 0.009 sol
+HrESDutYEHN2ePstX3XF7iYwytDKRHg2uS7sjG8PMymY has 0.009 sol
+7a45wmZggMHR2QPPk8iYapRcn7eK11wmcBYhBV9QXyJ8 has 0.009 sol
+6BGUMEqts4cQ2kJm74RysJCKvUnQQZAEWfZ4wz9YoMXf has 0.008 sol
+3Ps1C8GRcC2ctBHWVDCRNMzf6amJfdnnnzqfcRtfqGDq has 0.009 sol
+BcmS3szpw8CYMrb5NCjMSap3WPjuuRqEXQW3uPkY6hDT has 0.007 sol
+DLbMXn5tax4vwypyHFNtf7rP7bjdaUr6foCkR3757GSP has 0.008 sol
+C4Db2UYRQEGE7D5NdH2u781NbtemPf3xeNyKhEfKREkJ has 0.007 sol
+AjxeshXMQerrGUCqASYb6HhPc8YP4Br5Z1YyrHu79hWU has 0.007 sol
+Ajr5qZLeqBcB97DKPDQ9bwMZHWydGHNCK81xhCPHxUPv has 0.007 sol
+73X9ctcNBL2oMQ3h8NUkVeMwcR343DJaoX7wZLtqxQQ4 has 0.009 sol
+C4yzL51EQZdKZkwq8iKyi7DPB8kuphNjkuxCANYjQxBp has 0.009 sol
+Success in distribution
+
+Creating LUT started
+Error in creating Lookuptable. Retrying.
+Error in creating Lookuptable. Retrying.
+Lookup Table Address created successfully!
+LUT Address: 45dzrA7dbvwiyHm1KJH3YTQhcVH3JP5QGJBq1EoYG2Uy 
+
+Successfully added wallet addresses.
+Adding atas for the token 7KTApLGwZ4wkeUtbnLYQrFZ4KkbmYwc3AVk8oj4LPBAr
+Base atas address num to extend: 20
+Successfully added base ata addresses.
+Successfully added main wallet address.
+Lookup Table Address extended successfully!
+Lookup Table Entries: https://explorer.solana.com/address/45dzrA7dbvwiyHm1KJH3YTQhcVH3JP5QGJBq1EoYG2Uy/entries
+Closed and gathered SOL from fund wallets 8 : https://solscan.io/tx/3NVZ5Wr7tpEnYeJ4yknUV2SG6tafNmgWRSD6Si14YCx55kNAKkxxyfeuCx3KsoYi99ZKAp2wxh5hr56nDFPYjddL
+Closed and gathered SOL from fund wallets 3 : https://solscan.io/tx/5JqFW6zrvuya9kgLYmuXYooZNWzTxhVkcDfKbRFcbT5sMXJW9ZC74VH1AN95ukeEuLZxtoKgFjgMvqJbudLDzVRS
+Closed and gathered SOL from fund wallets 5 : https://solscan.io/tx/3JYcb6rVDYNh7sqEdpRmE5LwMCYmLSVowHVUs181LR4DVwwhNPE72nXhL4iTeiHCMvd5aJWiNLLwqB9m4GvER9qQ
+Closed and gathered SOL from fund wallets 7 : https://solscan.io/tx/4Qh4SKkzN4FWVU1QtPtH5S5nSQRih4FcACe3qLeFhfjaAMycscmzkTRf6m47BbESyW1GDaH3kccdfz94KL9SnigH
+Closed and gathered SOL from fund wallets 10 : https://solscan.io/tx/4wXT8Xb3dwMQcdY6tvzMHDDD9cGENy3NfHbm3KGDA8LxEaYTJdyZL8mAX8aWe1xbQtEMh2AsWKhZdhnzCBxG7T7
+Closed and gathered SOL from fund wallets 6 : https://solscan.io/tx/5EzryWavr7n1RTGxXzopNxtiHsPNtgebJ6mr2pLtKoMACNuoZX7gQQC8i9XLL5iC41VsZxfPV7RoQ8HcHpKSoFi5
+Closed and gathered SOL from fund wallets 4 : https://solscan.io/tx/2BT8uiKjFEGmbG1pKS93zRvgUyUTkiriiq5pBx1McQSKrLoXHXzP4b1XLUjhJXreKA9Dpmawb64VNM2xpRwYDF9x
+Closed and gathered SOL from fund wallets 1 : https://solscan.io/tx/4B1UsnX95BzLhfA8f5FiUdjA1nSatLgNZtLGdLShLGvwnEPTrow5rhK7ajdRsSX9BSLuxxDWNikLNh8TvE1qdHe9
+Closed and gathered SOL from fund wallets 2 : https://solscan.io/tx/4147LhYhz3dTPk4zZa7ooAKMQVcVnuXr1hrm8p8mg9KYuvVWtbeUzCVRv5EPKoecuJHWrhAVRo9LkKMmiUup8jV3
+Closed and gathered SOL from fund wallets 0 : https://solscan.io/tx/58os5WdREuvvcKWoMYsVwk6N7VyjRvrqPTNsisyRPqw7b24Htxy3Eduopt2VFY3nHvLKRpTeAhWqDaUu9Jp7LGqG
+Closed and gathered SOL from fund wallets 9 : https://solscan.io/tx/xexsw3Qk9TkvEPi5UQWRyqg7UX5fzNzN3GKoqw7Ttv5P1d2ceaeREhiD3Js11YLKFZVW5NAydCHRkvg5xud9oyR
+Closed and gathered SOL from fund wallets 13 : https://solscan.io/tx/2wBGtk1xAQZbTLiTku6jHXdjrYvsQqzyfKyBeap9aLYESm2DHyYb9idwLmzNpumQ5S5RQsRxqsXRWkyUDfuLdN6U
+Closed and gathered SOL from fund wallets 11 : https://solscan.io/tx/586CoMjM4GNqLgwRy8JgwVAoKZWDojry8ozpGBJEBfk2fS8noj4buoBDfgA7dxYVVA4ixuh3GodSbU7ZqkZ8hjWe
+Closed and gathered SOL from fund wallets 14 : https://solscan.io/tx/5J66Vy4TuKCEtzKrTs1JrZa8up3FhgEXctyVpSRoor2HsUf47dvwa6CAzRHA4Hr5TwnhAhUuoVudo96e2jLZDvDU
+Closed and gathered SOL from fund wallets 15 : https://solscan.io/tx/4E922th6pS6a68PSnDcZkLBhPQdkyk8Ki16Jin4cYaMcwRFZhcqU4iBdjCiSNu9rS5Fa4HjzY7ZwDgjDwnQcpFDo
+Closed and gathered SOL from fund wallets 12 : https://solscan.io/tx/gh4ZEaaBEqqzZieJHPVfBBbXhwgYGutkS9XyoMwLz9TXufK54sG5gy9XEjBCThEmZefnrBtyhQYuRimiLFAZvzT
+Closed and gathered SOL from fund wallets 17 : https://solscan.io/tx/GwQtV9dseV48wkZKu8zP66Vji2vdXNUZg3p1tM5ozwmuGMwYnb4JouzUBi8fR2LgRDqsPirVSDo692zyQERU59C
+Closed and gathered SOL from fund wallets 19 : https://solscan.io/tx/3Z9tEx5BpQEwtfKHHAwREnWjSYfJpugg3AoADGRFwN1GKnu9NuCMJZ3tMmHaWQCURVCrCpAMymbAbrjDbwwrJgGt
+Closed and gathered SOL from fund wallets 18 : https://solscan.io/tx/QtbpxhLDVWs8VwrQPnyVW1YohW95pfNEQSWR1AzV1VGiawL8ymkGLTpPvioXCzhSpjmhotdy2N7cwH3xm9BMVbX
+Gathering wallets processing is ended!
+Closed and gathered SOL from fund wallets 16 : https://solscan.io/tx/4bWPVAkgdZF57cMjyfJKGrMypSYs4gTKHbMfZucs53AwfJ4DsNpBDW2VTqnSopqC7FZYZjfyPjovEZKQbgo6z9rG
+Gathering wallets processing is ended!
+0.183302745 Sol in Main Wallet
+Distributing SOL to wallets...
+Mint Wallet is created. Mint wallet address: 39jF6GCGWtMXVULmZ3nVkZqXHwqrniRjxBiXP8BhW2xc 
+
+Dix34fXs7M2Y3j3pGTaMHsVm8C3kZmfE2p6yYimeLZ6s has 0.008 sol
+J9xoHPiWLJRh9nanktzj2BJPEfFUYq15B35Tu8nyAw3v has 0.009 sol
+BM2WHEgeuvUsPgF1dTZKePKmS3Y5i6TmeKJZ5eAjpPCb has 0.009 sol
+2ijZbVSCSoXAQCdJhzJQJvoSkYcv595i7PbjfprYe25h has 0.009 sol
+FzgYfeoJsmZdgsQAEyDwzqb9khsTVYS8aQwfAgdgqhVR has 0.005 sol
+8TkrDvGpn9iJpVdUShgGMbyXxuBFXY4VwnKxXNCRTZhF has 0.009 sol
+GGd8uthCRZzZqtTZDGMhvj6rBhhFL1E5JFNWw8ED5EPg has 0.009 sol
+9kR9eAgpmUovLSNU3HMcuGW7mcPtShAQeLSXG5EsPNXv has 0.008 sol
+3KVnUYCyoeWckQUBu9ttdNCTmtzmWUfAPnawzUGvNzmJ has 0.008 sol
+9VeW7eof19VwcGxKkHvS97UgtHuT3GP5FsiyYxG1L4r6 has 0.009 sol
+Eag1GR1H6V2z4iVBfTZfP7r8qzcrS8iVdvoJKxsaDVEw has 0.009 sol
+63AQk61JKYgR97DWJ4Gjxqwg5uNTkd7nPWLvALYrtCmZ has 0.008 sol
+GRjZBu8DZmEjrmmgD2X8woWCagnn9kXkyvjy2yss9psr has 0.005 sol
+ESGdrVDMHrjtGJ1aUswLYKdMKr5JGSnEdSww3MKt686B has 0.008 sol
+639VpmMSApN6YfLi1veqD8PsVEjyBpH6X5oT6ucVxAWv has 0.009 sol
+Gbip7XHNttgtexyfJGxeYiCPy3ZtgavMgn8kpcub2tdF has 0.006 sol
+85mw2aMF4c9EUbTqZ5kQTqGdNDKPgn4AFDVCJToX39mf has 0.005 sol
+5tJtGspEat71rJBMUUTxom7L6PgYvuUrcqwVkpMNGMrx has 0.007 sol
+HnmkYexgWH2JzQwgy34zQbzud7gdPpPbzkGy1hFUr3Fr has 0.006 sol
+CLXARxsm1VJqbdBYwmKZ5dxH5bLuMNFWMc9jdJ7Q6ABq has 0.004 sol
+Success in distribution
+
+Creating LUT started
+LUT Address: 45dzrA7dbvwiyHm1KJH3YTQhcVH3JP5QGJBq1EoYG2Uy 
+
+Successfully added wallet addresses.
+Adding atas for the token HME2Z9d4SMVFfesFysFPiuZyvS9gn5epaMgk98zKyfrE
+Base atas address num to extend: 20
+Successfully added base ata addresses.
+Successfully added main wallet address.
+Lookup Table Address extended successfully!
+Lookup Table Entries: https://explorer.solana.com/address/45dzrA7dbvwiyHm1KJH3YTQhcVH3JP5QGJBq1EoYG2Uy/entries
+Closed and gathered SOL from fund wallets 0 : https://solscan.io/tx/24Z6EwP5G582CQbL8hScy6KvBWMg7AKRY1wzrxj331Wb1bxoHnVWL6wCdkPMduWdu6XdGy6BYRZM8PErkCAgJ6dy
+Closed and gathered SOL from fund wallets 9 : https://solscan.io/tx/47QxnJRg6sCrrcDcff6QbAR7miS2eztjiJF8dXn3JcaDuPbGJUvjBpo4EoKnmG6tD73Uo3cyi2g2xjRJnkYfN2Rd
+Closed and gathered SOL from fund wallets 2 : https://solscan.io/tx/3SZhsNjMFnZDAXuz2gKFGAc1Tj8vjYiydFPg2bAkAV6T5C7vgWTozavRWgykzWpPhX527Xa55y8RbiQFKK2MkAMk
+Closed and gathered SOL from fund wallets 10 : https://solscan.io/tx/523Pdzuk49hSv4j837tQzbgYiNNZoWiFhLiXFnyNmJjdU6c9oxNyjDF2t8o2bSSRTFgaVyUTnq8jaThA54UzVUxr
+Closed and gathered SOL from fund wallets 5 : https://solscan.io/tx/3XfoZX42QVMH5kHuXJwvqwdbC1oXRSQigN9ixv2xoNxVNhKFR3JTE8YqrSFAiW2HioxRHksyzishgbYGE5BU77fy
+Closed and gathered SOL from fund wallets 7 : https://solscan.io/tx/519dbd2KKiEn3XQyvq7U7abovdHRcUPvy3yF1kkN7f4MEKMnpWWRTSw63Ba4YxupesthRynpeVeJosKpBXAgG8cu
+Closed and gathered SOL from fund wallets 14 : https://solscan.io/tx/632urYRikFFi6c4LLtFWxsqYV4nNkiuGZefbo3VSgECuM5sY5ENkXdsbJBg5jk22F8WHd8BCR3Hf76odqhFoLdLG
+Closed and gathered SOL from fund wallets 16 : https://solscan.io/tx/2rGW81ycv218LyisHj8BkXS9ojp1or3ckQ34ZAPeQyTaw2RfEMqZv6BTf671Qx8zuGvEe9rqKf8N7fJda2mgKjWN
+Closed and gathered SOL from fund wallets 6 : https://solscan.io/tx/3kJYv1e1uW2nxyJPYwJy6R6GW26WbFMruJ6JL2wrc9FQ14FVUiWbNnSpu5raTVvLDEWvPqt7ZrVU2AWBQatWKgUv
+Closed and gathered SOL from fund wallets 12 : https://solscan.io/tx/5NCv3ppLf7ERn4eMbRDtrJsKEDrD5j1s3xNqeDsjweKALkP4PAT1tL9sWRaK5GpWfVhpseWUiJNqvTL3Hiss1NBr
+Closed and gathered SOL from fund wallets 4 : https://solscan.io/tx/3vjAqqhvRyt8kp7FZbSymQnazwE3RqSzQwnxV2kHi6f7Cr5XAKkvmVkCogn2ArPgd5brGqZvCopG4m8tdaXdK19d
+Closed and gathered SOL from fund wallets 17 : https://solscan.io/tx/25N3SeCo7w5HJ1vuax3zJ9PfMckWzvQmBjwVcNFzJm9DUuSTLL8KxtqT71v6SjYwYhX3RKNZZzpWY7ctWEjDFGgn
+Closed and gathered SOL from fund wallets 1 : https://solscan.io/tx/5rZU8i4z2YPbk1bY19S5AKcDKH35ZsJPeujchD2tTT1p92af7aGo19QqsGKKz6VbDgpSMQMmDCU9s33EJpieF7NB
+Closed and gathered SOL from fund wallets 11 : https://solscan.io/tx/jstR4dUphYbCisexaQWapvDHC9VZsmL3uYjMcUnwJDeQgCX2X3Ys724Pj2ikbfLhwBdudJHr7YqizoLzGHv2mUA
+Closed and gathered SOL from fund wallets 13 : https://solscan.io/tx/tAwXpcEuSh9wwKdFP5WjBDcDKedcB6GE4Mgen4goQQDgXz3a8tfrWYSqC6y7VEeGcb4Rj4MHUDEGoKMPXviGBr5
+Closed and gathered SOL from fund wallets 18 : https://solscan.io/tx/3Yk7cvgSqbwwp64XWiMu86ftZWrRKUqReGX8qtCuXMVawPj7bbeFkaqHGQw8HahpJDFuoD5ToKPdLJyzWFFhFEpe
+Closed and gathered SOL from fund wallets 8 : https://solscan.io/tx/5j44ai9mGyNASVJNutCceGCVSWMtrB5RdGrtvrHMMbYD7HxrYmkvQs98L7pgUsszFd5yj6ny1nXLhnmYrXEEayPM
+Closed and gathered SOL from fund wallets 19 : https://solscan.io/tx/3dfj71Br9vQnn8eQvYwJ4Dau8FcSXpQbd9CnC746vXmEckeemFhrCDNJ5bGQurrXWDPTEgdT386sCsj5z1ma5PUW
+Closed and gathered SOL from fund wallets 3 : https://solscan.io/tx/5itYf8zxcPzHS1uU487eyGyRsK2hCTW1YejWA4eAKwa9qDCTx93raej2biBvSDSAHB6v2vux3xsjj9pTtpryLbJ8
+Closed and gathered SOL from fund wallets 15 : https://solscan.io/tx/2VJffE3BukbYw46NKePQCWyxLEDevBSzM5Y3qWGtDFcGjpfXbswXYrADvivBLmnELsZxonhdmPR9cea9LrS59zrC
+Gathering wallets processing is ended!
+Gathering wallets processing is ended!
+0.169962797 Sol in Main Wallet
+Distributing SOL to wallets...
+Mint Wallet is created. Mint wallet address: 39jF6GCGWtMXVULmZ3nVkZqXHwqrniRjxBiXP8BhW2xc 
+
+7a7hPawtisFJHPKiwyDpXT4AaeD2U5raPmGpb8wtQ9fB has 0.007 sol
+GzPh7HWHmLC5dfHE4QAenxufhoFJA8oGXvX4AhkbL2yR has 0.008 sol
+BesotgP17w93i1pipA3YwBTR339yhsjeSHRUUMWAQmGd has 0.007 sol
+AgtQJEaYC1Y2rxyyLJKgnmMHUJMWNemrCtPq8veRAP8R has 0.009 sol
+4pyBVpJpZMbxfSrCyyzPwyJQYr536uo945Uzpz4YLnZG has 0.007 sol
+23GQWWfqATU96omnh2hFFEnhjgM6sLFisuR44miJ6n7j has 0.009 sol
+EUT4vAScR9qWnaKSLPyg5jNN1pMPe64EBHMsFMMEoBoK has 0.007 sol
+3zyUypUgBmeuLPmHjVhSnMRzQjutwhG2RDu8VMjso5EA has 0.009 sol
+2pUYWg2PZkkSZMWnFxdtQLsLsndbwuV6p1AUaXpW2u4M has 0.005 sol
+7d4d5UCtUSAmcnEC7XiUWCFFE9ZrxAGtxHLzkhRiwFog has 0.009 sol
+FbhwJCx49ErWNVQ2HpiD21Q4y8S52yKCcu5GUrGDsygZ has 0.008 sol
+iMuRDErsBS63oMLRYULVr5txUMmQCqFhUwZjSyf9gJ2 has 0.008 sol
+GoArSiybYCmotWBVkZqi8k9XyX3on7eGhjNiCTfEMLuq has 0.008 sol
+GHK9rsiF7QogMwwEQhayShCUu2Dx4zWYKvMGDr9PoNTW has 0.008 sol
+3Sw4HxmvYD7ZyBUGN5RA6ndRwME38faHf2QddmTcoJsM has 0.007 sol
+AjhnvigVrEnGj7rJfLhejDNaHykTDsEu4TjbQFqMDYgX has 0.007 sol
+2rTYxXxJXDATrBQMaXwaD9RWYhrwWSnGQ6Mu7o2CuBYr has 0.009 sol
+Jo8en4H8CyXTaR8ksHUkyZ1dHsGAtb7SJGC8mP6VH5A has 0.006 sol
+6besq7A7oCpgVi77x9xucNBBosEqCkJ7pQYtcsVHyMMv has 0.008 sol
+4CMRiGg96QUhRP6Cay5DxQ61Ut1X7T2cCUaAL9wRBdD2 has 0.004 sol
+Success in distribution
+
+Creating LUT started
+LUT Address: 45dzrA7dbvwiyHm1KJH3YTQhcVH3JP5QGJBq1EoYG2Uy 
+
+Successfully added wallet addresses.
+Adding atas for the token 6ZHH9SAqJnast4KDpZj9nkfAnqdEB5ScN6eA7rrzn62k
+Base atas address num to extend: 20
+Successfully added base ata addresses.
+Successfully added main wallet address.
+Lookup Table Address extended successfully!
+Lookup Table Entries: https://explorer.solana.com/address/45dzrA7dbvwiyHm1KJH3YTQhcVH3JP5QGJBq1EoYG2Uy/entries
+Closed and gathered SOL from fund wallets 6 : https://solscan.io/tx/vV9mrRdrqqjashWRjb15M82h9gXRtCAqYfD8mZ4PNV14JaokgUVTe41w7KTPdoiNXzpj8vbKv1DTwztR4p3w7xE
+Closed and gathered SOL from fund wallets 10 : https://solscan.io/tx/2eDhHGtKVNASCk8cfRD3SdS2FJVUZfzhzPZcuBpNXkrcDRuUhNsxnZsWbPNYFMqS1jMiNGRmpZ4T5NdmpJErv6r9
+Closed and gathered SOL from fund wallets 8 : https://solscan.io/tx/3ZVveieaU5BKgG7nKxm2y5cutE2Zwt4xcRsLUAH3mQV3VNMUPz2badsaqNEMQmkouq5CGKZxbmzJL729zVXVhQeq
+Closed and gathered SOL from fund wallets 1 : https://solscan.io/tx/5hP46nYregvy5HFqhhiqbVDsxHeBJuKeQV2HZGj5MApzKataTzbCE33BaLvaAFrGuZKyhgCCbEiv3mgTUHQ6L3jF
+Closed and gathered SOL from fund wallets 2 : https://solscan.io/tx/2xNsPsWaaN3suK5wYd4kLNC1mZ8wNKAz1oodTo6gFEvoXduPFumo2tREm1fEYZKTmPFT5ZwpsGaL3Gezbq4e3xbW
+Closed and gathered SOL from fund wallets 4 : https://solscan.io/tx/3fdpkWRvXbP3UnCrJwx7P5t13T9t71Ci29hvzuXWwScPovuGkpcnCFXkyoBPNwh7x91enZQnuiRbSp7qBj3amRNs
+Closed and gathered SOL from fund wallets 5 : https://solscan.io/tx/3qhA63W85fruyGkzgVtT7JbSbemGGpxXHS88KywHhLBtKCVcuMfM8zmSznabB2VYsrERdVZ4NnbzzFtKEpt6khnD
+Closed and gathered SOL from fund wallets 7 : https://solscan.io/tx/4KFZGu6FUMnukfo2s7P31dvjV1Bi7CRvAnPvyujaXR85H1MN1QAaHiD6CPcJVkwyHr5pUkSK3jcc7h1yqvuHz5NG
+Closed and gathered SOL from fund wallets 3 : https://solscan.io/tx/3vaWsgSHxepjHf7DBKAW8sT7SJEnatqDzuPxKbu1pQU6B5mBw4Yym8jAxZb6wLzBTTRuQzgrqrtZBxM5vvBRzTui
+Closed and gathered SOL from fund wallets 0 : https://solscan.io/tx/AuudrdyiUCDRyXv9NLmnNL66fyBaztGxmKr6CfUk3MPagLzk7kNd9hJmMT742bLpqoowBjaKgbnVPxhqBDnK92A
+Closed and gathered SOL from fund wallets 9 : https://solscan.io/tx/3tYmgUDB4w8a7dM5bdrbZiPmx7RMYTzQMuAhb76SUBnxhNrwnvmQMDYdFD3vf583Wub2mPSycDacGuPpFPhjxTWH
+Closed and gathered SOL from fund wallets 13 : https://solscan.io/tx/3equ7VQ32XdsxVTQBCQr2nVyfEvCFCu45AWLsipNk79YWsUc7ULTNz3VFNrrvUXtpKGuYaX4tZ2Zs4AudgSACT8W
+Closed and gathered SOL from fund wallets 15 : https://solscan.io/tx/5d99zXJMVg7uTcPQXyLSBcTznNnUuU2eZ2ZMW6FhtckygEJbvbxTofNoEhfYxY9zAqwU5tfXG2UDmBd4CZsj53yP
+Closed and gathered SOL from fund wallets 17 : https://solscan.io/tx/4pwZhbxxQEwxWU6HoRAfUa1RWV1mAAxh5nzLe5Ui8ZY9b1JQCp1XUgRUra6rPpbL3V6Ktr7t6kKxJ8r26Jb6zkWy
+Closed and gathered SOL from fund wallets 18 : https://solscan.io/tx/2YxTJwaRDuCdqFCWreRCycVM8vmAM93W95VuQYyNiEpNDCLsnimo1ycww9E1iZZdm5pUC7125oTCEpSsuk7zPoEP
+Closed and gathered SOL from fund wallets 16 : https://solscan.io/tx/5p5QRFdRSaU51QziAT7cWUD3X1o6BvsUYvyPFCRFmHLsYshACe6EQscN4oc51z1uQue64Xekf4yDtUVXfh7uwFja
+Closed and gathered SOL from fund wallets 19 : https://solscan.io/tx/3y2k748R9qdkxhJ6Lgh8FXK5b5aQXYBLgCquci9UaVzwf5aXVjhCv3namJajAPcFFC5mtudEEC3hwArRueYB81ji
+Closed and gathered SOL from fund wallets 12 : https://solscan.io/tx/58o29BB8eYDbb7YQn9RHKYAd7WCFGNqBzVeVC5XAipeVMQusJB9o1srZGBgvZyV5DAuBrfYuvw7Lnd8y2ZHCYPyw
+Closed and gathered SOL from fund wallets 11 : https://solscan.io/tx/29Sd8gqPPGHmgQeKvaFNniwMZ8fA8PpfCuFAw1G43TCEDfK9gt38qtiKrEqE9Go6ncVnbsMNMzwBqCpwULRSSkdZ
+Closed and gathered SOL from fund wallets 14 : https://solscan.io/tx/4cCutzPDsCJFTQfbiWtCKvXHziJucqsXyrknK4zyB22aDGSs3nd16nUvicHaK7bStbF3ijhSEsaSTJZxKG6Bszau
+Gathering wallets processing is ended!
+Gathering wallets processing is ended!
+0.183488494 Sol in Main Wallet
+Distributing SOL to wallets...
+Mint Wallet is created. Mint wallet address: 39jF6GCGWtMXVULmZ3nVkZqXHwqrniRjxBiXP8BhW2xc 
+
+Ajku6R5qCmKmTQ8tnWokmaF2hutzYrP3uqJnbw9gjJP2 has 0.009 sol
+BYHq8qRNebcAWtVgPLkt9ezM1k7F9m98hrHBgMZkg5Ua has 0.009 sol
+2xYL6i9HMRkYaTzM1PF2p7zp3KG4mY9TSUFRwXhR4CQg has 0.008 sol
+Ddy4YAMfx1PuepAXsEoNvnwomiooYTDa5sgL5T1k4BFb has 0.007 sol
+9nGogZ4AtmYCTDMhfMkXDhj4Caft6CDea61PfMr4LJ1w has 0.008 sol
+6W8jmzdTAxa23HGmhvFZPEFsbi6xLNmghFe5CQdzNKJW has 0.004 sol
+BwKNJYbMBbTCJVNZjYrz9dpPvXuQKrrUoy74Jg2aEpi6 has 0.007 sol
+gVHNJevbXyy22LNiUaebkyYWVXcSen6TEXeBC5JSJy6 has 0.004 sol
+2Zm7m4PNkZDhFuEjRBTyHqShLLRXWqprvjLWKPX7tsq6 has 0.009 sol
+GP4DH2fDE9ruczt5KoNs3rPjxwDoSt7fhn5d5PiGgpkN has 0.007 sol
+4SwtjpVBp7AWPcAei1kz812wyutjDGQikh6ZCkUm8Hk4 has 0.006 sol
+EhnBnKHLBFJGFYw1dEpNxo5k4UsN2rFqKVenuJATGrsK has 0.008 sol
+6f1yKwyRHsVcsNc9atp2Jx5oyzoZF4trsAWn2cNv8kUE has 0.006 sol
+HK9t4ZKcdMHM2Bo3uMyKmAN48gUJkWm1QkxGmLr7mhrx has 0.009 sol
+Cvk2JJszWsaBSszRF7o9mdeM64seTNLNxB4MNVV11Kvi has 0.009 sol
+3uanLySpcpoAjvcE7fBziMa1zu1T27ERsiReUnhLjVjw has 0.008 sol
+9mQCqC4HnxHTVgGEnasXzK1yeZfwdMoUEqcjyZZztKMS has 0.006 sol
+9V23Ezss2MQZ84XwGCSqPxYFQC57zGsY8i1wFKwhKsNe has 0.009 sol
+FH6TF5Z8JGQ4RbbY87hPgKFxQyWAeXKLVSfFQiberyR8 has 0.009 sol
+2xAMHt9Wp8xXUTZ6F2UtR9w3NnFYZqPSjXGzwFVWqcyi has 0.008 sol
+Success in distribution
+
+Creating LUT started
+LUT Address: 45dzrA7dbvwiyHm1KJH3YTQhcVH3JP5QGJBq1EoYG2Uy 
+
+Successfully added wallet addresses.
+Adding atas for the token 6rVZNCkStx1uzn2VHCufCzJN1SaQUgQpQLQ5obnq7ZJc
+Base atas address num to extend: 20
+Successfully added base ata addresses.
+Successfully added main wallet address.
+Lookup Table Address extended successfully!
+Lookup Table Entries: https://explorer.solana.com/address/45dzrA7dbvwiyHm1KJH3YTQhcVH3JP5QGJBq1EoYG2Uy/entries
+Closed and gathered SOL from fund wallets 0 : https://solscan.io/tx/JPFfRWAdNTTRWuK5HMnYXZntop2Xy9k9ujzKa4NaE7MFviZNJS6p3AhEVbJjEgC1cHudztB2BPywABGxYZcNK4R
+Closed and gathered SOL from fund wallets 2 : https://solscan.io/tx/5Gu5q2MESCU7vJw1yhrSSwCQGuawGtfrH1QcNXszxJ6YpXUgyh5GVgnsWkdogERFpiZFx2jfrhy8P9qBiSEhTAs1
+Closed and gathered SOL from fund wallets 8 : https://solscan.io/tx/5gAdvoGa3cpr51vLHV9ubyWzsJvzauGtH6EjbMzCmzF6ewteywaWgWyogjn8EcNBAUjpZhhqJtvPSGfkUhRvdnQD
+Closed and gathered SOL from fund wallets 5 : https://solscan.io/tx/4t22KNBeLpvyjmCCSXvCUcvcpHy1xDrusQq7ZiGoFSeePf6DHy5MjNuHHNbjehvvhdsUYJ4fNuMviDxvgFpgyQQ7
+Closed and gathered SOL from fund wallets 11 : https://solscan.io/tx/2nsHRVj9YywGKa6rPsSnuE6PwC784ESqPfYaKoo8VXrxvmr4hjuMEpacaXaWEN6M3uz8mQF6jBavTKWCAuAK4jia
+Closed and gathered SOL from fund wallets 9 : https://solscan.io/tx/dV4PJbn78xkSShbqPoMzia8z5m5jpXRWNXwB2bCPqzRFohttXb1U5Uhi3zt8gCv2YiD7CE4cWDwpTi2ve54Uokk
+Closed and gathered SOL from fund wallets 17 : https://solscan.io/tx/EssCJkQzpQtPjoJfbeBBodfLftYaQY45WSj8ytCWgjRDfY6L4fMHMWhoVWqZBnF52movK9mrF9dJmXdLD1xSTix
+Closed and gathered SOL from fund wallets 1 : https://solscan.io/tx/2aEtoFNS2HNkZ4SyCJVoZYKwuqoP5seu26HxEYEK5oGvTMs7vakvtEK119c1Gefv58VzhNqPuauJ5pGajgYQsKhK
+Closed and gathered SOL from fund wallets 16 : https://solscan.io/tx/3PZ7Gw3z9uWQU8ZhhNgvCJShHhfxv3DRh7tdVZNA7fgqrAY2R3gYwaMiz3e27UL6UV2HJQVPR4Z7gfwXTYtB5kK5
+Closed and gathered SOL from fund wallets 13 : https://solscan.io/tx/48UEYsgSzvUMQkRwbRP6sH6HEh93w7WSru6xnuCyuR1JC61Wf8NCCBJ2fhNgF7Yqus2gbqJ5wvYvNHkkVSUcUxWr
+Closed and gathered SOL from fund wallets 18 : https://solscan.io/tx/4nabX5aBgzxbPcrnfLchJLuRoDJ6mFhSYdbWevvxsxL17jKJakVzV8siRVfNzKkWysyDXZvfABCiUKwz1SkJa8Md
+Closed and gathered SOL from fund wallets 12 : https://solscan.io/tx/2Lqje1quXyZfKHB9sTqSvFd9nQQxMsbsQCrJTh6xjY8ebn3nTzkU7ooyZ7LrXbZdfHSPCg9oG2yfXN8YDKL81wMX
+Closed and gathered SOL from fund wallets 15 : https://solscan.io/tx/4xs7Qrr9ZprnEnnCscY99hfc43DRcYsi1nbP6FXxKu5bxBRLBgL8GsM5fngjZBhrcVvyaaVWxe4tAJPhauPfxniw
+Closed and gathered SOL from fund wallets 6 : https://solscan.io/tx/3pNd8eCiXRb8jU6bnVZ57FvkXUk7hKeiZivccHoexBBfPs1XQciiUjZu312yScRrS6VSqFa6XA6ZKsdCYyy5nqst
+Closed and gathered SOL from fund wallets 10 : https://solscan.io/tx/5QKEkmas8yd4xXEL1Qmd4S7v8amYH1uEAdqR9Ek9xhpSqzh1SAsxwF6pdTFDTKmEgjkmwNVs2dQhNK4Pa1HWxmky
+Closed and gathered SOL from fund wallets 19 : https://solscan.io/tx/3E7vLRw5nKVHtZ3fibomGLGjoXQUZ8a5j8iuANZFruPAxqhckn5woyH4w4rrVf9Bxk21xfGjDHQMTfEj5NsYyX8C
+Closed and gathered SOL from fund wallets 14 : https://solscan.io/tx/32qDf3KJCKowEkzGqWb9oh2rb7ZeH9fkk21PzNsCt7ys3JTytvCZiG8WMD8cviPTzBgJKagkTPNeMLsbeVfgqBLX
+Closed and gathered SOL from fund wallets 4 : https://solscan.io/tx/5T6Fjf72CHcMFHhvHvT9EtHAR6RMmKGpBDnzYz6FZo9HJ9xzuNUzyXCq8P35CHRZSLkUBsmQFpee6gUrL4yG3PBq
+Closed and gathered SOL from fund wallets 3 : https://solscan.io/tx/62AzHhg1PSMBcUc6jZnhgB3VKetP5cmEDx4uNLpHF8YLkbYwvRtsDBWSqx17DjZbHA5XtwaBHD1XjPG48UtRSG2m
+Closed and gathered SOL from fund wallets 7 : https://solscan.io/tx/36TCoJxcxiRBXCzPb7saAxaJf6ptS9jCT2rg3vRnf4CpY85kdUR2TKrykz5djoAxNwWk75ewXgBESizW6T9PLCme
+Gathering wallets processing is ended!
+0.170148546 Sol in Main Wallet
+Distributing SOL to wallets...
+Mint Wallet is created. Mint wallet address: 39jF6GCGWtMXVULmZ3nVkZqXHwqrniRjxBiXP8BhW2xc 
+
+5HGRwds3ADDvm8YfaSJMaoDzTp7kVLDoS9QvGtoGbnyi has 0.007 sol
+3HA1Gdx4Ab4VKS42tcVgqKJ8nWXYc5TxzuqrGpNr9Ef4 has 0.008 sol
+9FmnvKhTf4K4jEWMCb1geoxiyK8i5ZkjsQtunYW48Lbg has 0.008 sol
+7ydXaVDr7pZKseb6ydR9eohcFphAD97qKR31ETLUP8KN has 0.008 sol
+DStVzte2tWEsQTYnMstff7HcFM7MNiDxy5SN2NZ12RwH has 0.007 sol
+8rvS5GrMQM3g5CJrDTCvbtnszyao4NWJsWdNehpMhGU1 has 0.006 sol
+9QZcwoa2gxm5hQMr1H1TNaVAxiVTe7em9xi1Eke1xLJy has 0.006 sol
+5hmRjrUB8Gm75BYnPS42pfzPbZLLhe5qmoVz7NpQDruR has 0.008 sol
+fpBMdSu1KCYwu9kjKT3666czU2npfPgBP7jKQkL7z8m has 0.008 sol
+5DFhKGjex5w1YZGzo56tPnbbG1Ft413sGUmJwjrS2Ye3 has 0.008 sol
+6AnipXFukXLAPqqNrHuiGWCxMtmm4DjjEGD29JpaPPdW has 0.007 sol
+FKkaj6jGHm19R5B6EDCmf6BRCowZXihRxa9wR8z1XbMM has 0.007 sol
+5TaivLAE3kJGmkkSZdZdLGFuUwKaWfPqbK93ceawdimD has 0.008 sol
+3Y71ZyzHL1ivfe6htHYRBoQbwYfWv1RzdyBDyF9mkKeB has 0.005 sol
+CDgSQpwUTsywXWgQy1DVXGNTe8oSN9rWAxc3DizEKBL3 has 0.006 sol
+ANcNbz1jFk1Mbhihz9AcaBPxwJGwoB52T4Q5uqnfjKd2 has 0.007 sol
+8JJvkhnX4Q2NfzTBQfhhqFTvDWSxQG4ohdc6xb8GxpmU has 0.007 sol
+8xgqedriibzXSfgCayaGAQn8cWhxZPFT2A3EsWVo1E6T has 0.006 sol
+AcEfVt1i5JHXgzLLNX29r3ECzMZcjzGpggZngfWZUYPn has 0.007 sol
+Bs5ad38peb9P55GDgCER7a3Rhy4FyaSWFBHimX6N4ucr has 0.006 sol
+Success in distribution
+
+Creating LUT started
+LUT Address: 45dzrA7dbvwiyHm1KJH3YTQhcVH3JP5QGJBq1EoYG2Uy 
+
+Successfully added wallet addresses.
+Adding atas for the token FHiqdyRe3CRvQeDChEFTjuwoHGbXCWrjiLyi3Pu9Yv6Y
+Base atas address num to extend: 20
+Successfully added base ata addresses.
+Successfully added main wallet address.
+Lookup Table Address extended successfully!
+Lookup Table Entries: https://explorer.solana.com/address/45dzrA7dbvwiyHm1KJH3YTQhcVH3JP5QGJBq1EoYG2Uy/entries
+Closed and gathered SOL from fund wallets 4 : https://solscan.io/tx/qK3Q9gpCfqVdShC7zMLzCsXnBVpYkWYcGUfYrwUqxDUG1emDtcHCfC5m8D929WY6M6EJsd1wbKnCTnbMpUAugUZ
+Closed and gathered SOL from fund wallets 5 : https://solscan.io/tx/x3gstCEdTSorzNtqR4RznXp71jXWgxSweSy7yjdFy9z4V56VvFxwGKqRinhAhjUKRjGJV2MQvKHAWPaLdPCuTFa
+Closed and gathered SOL from fund wallets 11 : https://solscan.io/tx/4RxDfeYwvYC8RFPuDVEp8ccZQMuez9KySABCJTipXYRCTLWysruJ4KNrwKkzEpL29qzjFxQLqYAy2ju94fdK9ie2
+Closed and gathered SOL from fund wallets 7 : https://solscan.io/tx/31itGNS6u4RYJoqQTpZmFqdqQ23qjgrZfNbEdpLAxRhRyspwfmQeF2iB4tWvNp93MjDPhqA8XKEi5rmDCEmAtANu
+Closed and gathered SOL from fund wallets 13 : https://solscan.io/tx/2js18kLpWxSwGpm5cojAYHHGxccqBtj8WhYxKM4gFHdGMSRGP8FA3YX2fui6RuPsRaLpV7f3dDVZ5XHPMtodAHCT
+Closed and gathered SOL from fund wallets 0 : https://solscan.io/tx/3tN6HsYnnphKjEG5noQfqRUXj1XbQuL9XxC7kWFjP7B3vPqBowxMm58jc6ZBf3ZSKqQKzHF3fdZdxdxvWr6CdimQ
+Closed and gathered SOL from fund wallets 6 : https://solscan.io/tx/5uHJKXCXDUBdw7NuNquVtn7JCbyn7x5aFixqgHUCMqwi2oMjgTqYp6ZbdFoXwNWxTBa7XkknntUbU1nKQzez5ebM
+Closed and gathered SOL from fund wallets 1 : https://solscan.io/tx/23CP6AR8VejttCazhxCMxgQ4dJ54WxCSDT4XPtBV7pwQXekqW7gs1wjTJHUoUGcNGzLPGQpsu6mAVooJXquEzXaW
+Closed and gathered SOL from fund wallets 2 : https://solscan.io/tx/5gbRT2XNkXHNYv2CB2DvAyskGZmJ9saCT8qK7Q9tNwU2qnTmPoq9NseFvJf8m8BBVZq5L8rucDC2JAzRubA6GePH
+Closed and gathered SOL from fund wallets 3 : https://solscan.io/tx/39GmiQK4tCTZiHxQrYoFVBpVVJg6tmcdmn4UZWX7xt4EA7HB793NTgcinuHUVWsiBx2bGyQGM1ECaVZzJLHncWnz
+Closed and gathered SOL from fund wallets 12 : https://solscan.io/tx/25HFLVMy2Ms1bWoyLULuCpUw77642iHzbn4kzyXKqbDYnPQ8yp9f4Ds4iFN8gsfgFBGQkBSrTWxTXav4cKRR5ttn
+Closed and gathered SOL from fund wallets 10 : https://solscan.io/tx/58sfMj5QfM8Xwf7GSvs6pNCo3rPe13HXrMppvMiLsNuJZPirhapE6cAyjFwyM4igmsZBg1Mtm5KSA8Z2UiQPYDgr
+Closed and gathered SOL from fund wallets 9 : https://solscan.io/tx/2Dfg53JcVCeacwsnBT3wCZTQXvAnDzXRTEqsnmrPz5wxEFULoVzRtFGNmo8RQ1fYQtNQzomU8MKqiS7AsmsnoP8Y
+Closed and gathered SOL from fund wallets 8 : https://solscan.io/tx/46thwXtFNajRm4EmqoVcEtVVg6qxGTBJbftswgSscrcP8EzE3mcQfWDurSqXzTQeLJ3JmsQb5VfT68XJe224Njw6
+Closed and gathered SOL from fund wallets 16 : https://solscan.io/tx/4kvgQP5LmR2At1N7cnwoTE1JfWgDCm8i6knouyhogUWo8vjb4pbNAeGZgNByKrAE5q8X3VoVwQzVQH3qsCM5iTim
+Closed and gathered SOL from fund wallets 18 : https://solscan.io/tx/5U4vvxbtmubSr6mka2okPadjWFRxUD1HrQgNv7HqLqMvqr6fSMR6Nas9wxeRaMHhBvSeXECRD1Qb4GexYSbsUgd6
+Closed and gathered SOL from fund wallets 19 : https://solscan.io/tx/a6PvbBR9pix17XRcxx33eBGcDUvUyP7MHzji8CW3EA8G227TpFLjZZGzzTYQySXXCof1i8mHb23oJu6LiDdRvQZ
+Closed and gathered SOL from fund wallets 15 : https://solscan.io/tx/3pmhDgG1PKinuwzNuPwD2G5aKsbSxigGPD49JTCrpPkugHzEi11AmmdiZMNxVeMRqGS3YdSp4xwVfckhebtifySU
+Closed and gathered SOL from fund wallets 17 : https://solscan.io/tx/4mi3w7fP9StSj5ZQ92VFd7ZrJvQCtcCTDHWPzcWwhS5PgdN5K8p8UTvyZFDDz6pF14DErUuuDJW3SQQ9STxZTtLa
+Closed and gathered SOL from fund wallets 14 : https://solscan.io/tx/5MWArnpnXg5GktRHW9XxR6vFubsQ3dDNEZrVJZ3NTgQ2XTqWF592kTUcmbi7AzDoeEVQmRqzwxb725xrygg7r4sg
+Gathering wallets processing is ended!
+Gathering wallets processing is ended!
+0.207075266 Sol in Main Wallet
+Distributing SOL to wallets...
+Mint Wallet is created. Mint wallet address: 39jF6GCGWtMXVULmZ3nVkZqXHwqrniRjxBiXP8BhW2xc 
+
+8qjxGNoaoM1djDLnQs8ojV8Wdp2HuXPzDJHgJsdtsxoN has 0.008 sol
+9q6gYiUjhrFvekR2jTTAwxkLpK2f8dq6MYcpXpXQFyF has 0.006 sol
+CxoBgMzLnLzci3KXzSodzMKYJ2aBnAr2rf4LCiiTtqnX has 0.007 sol
+GBxrn4qPSdSV13V21bnXYB181dcsTtWiWK3dVoXyKR6o has 0.007 sol
+3SEZqYaD8MdZtvgifCBBoQJYkjNNsbhTk5NwJSXHMk3Q has 0.008 sol
+FknnAxe4uj3uq8Nq9Kq2GPHSrS1XPVARtB4t3Azm8WEL has 0.008 sol
+4Yo4xUusUw6E1BMN2bvypMjQ2diWaQMdhJoDmwHwfdwW has 0.007 sol
+BXhM8Qe6bf6WBt6XsJ3NA9DwKZUVaBGuqPFu1QsWJN7o has 0.006 sol
+FiwaH1Lhp3DnxDYnyScy2fPoj4YT5Hogins37W8TRxXZ has 0.008 sol
+ECbkx8DVdwd9iBzeH1eznX6VqosUW6engGKjQuipWxwo has 0.008 sol
+5tbgy1qe3HvszvYmzstt5u4HFyU9tWoac5ZxsBuUaEtg has 0.008 sol
+9AL31EqCu5WJBYr2uVPAeceEMMNv4yG1om7VPZfwQqeB has 0.008 sol
+8AQMdnEk12QGKCep4BmL4NoGW1RwQm7aBq1tCtMCKsZW has 0.007 sol
+6LqBQpTC6oxspiC511ucsdP5WDsgh4oXzH3nb1srvpTU has 0.008 sol
+623eYmUtCVX7eLDQSP2wwumeMW7tbcsiVqy5946b5Ah2 has 0.007 sol
+CJrQ6iWkMCdmCNiov3YUQ9cUXnQXCF9M22JobKqNvocp has 0.005 sol
+6KsdBeJwbiVVtvwDDF7Nd8uRkkUkfb8eAvwaLcCQFMoF has 0.007 sol
+8ghcStiUjCrWJUi7DqiLCTb5wKqCsLCSHXuGdAip82GN has 0.007 sol
+FKWGBwdStZF41TXqZKrGLU5hu2H8UJ6xoLvi6JQwG7U7 has 0.005 sol
+E9U2JLuE5mSb9A48xfFbYqoeGJD3j95wttyVZ3qTWnUF has 0.005 sol
+Success in distribution
+
+Creating LUT started
+LUT Address: 45dzrA7dbvwiyHm1KJH3YTQhcVH3JP5QGJBq1EoYG2Uy 
+
+Trying again with step 1
+Trying again with step 1
+Trying again with step 1
+Trying again with step 1
+Trying again with step 1
+Closed and gathered SOL from fund wallets 6 : https://solscan.io/tx/5CJ2jVFCiM6zQfNcvSeBp3rQrARJ4NoqRR7jFAeqYsyLqcS1fBrwQyuK17jFu2yvbMasw2zU2Y3TpgnYkP6mxgEZ
+Closed and gathered SOL from fund wallets 15 : https://solscan.io/tx/5XUn8rizAK8m1gC18vpUc6tWhSzadh43D5aSR5WinaWXgfcq5jM7PtbBMTFqbd5e65oefZ5PyCccjFXXwqkGLSy7
+Closed and gathered SOL from fund wallets 17 : https://solscan.io/tx/5SYor2GMCSZmdz3bcu11f1b59TUSu3R9uqx3Se2GDjtDjh9QNpPkjG1AWpUoExfg2bCBspq7ZsEAzDYMXhLiybmY
+Closed and gathered SOL from fund wallets 0 : https://solscan.io/tx/5DDKq8xBswPfD6ivZ64XPNLZsU8hUKSBigX8c2XV2FoZxZimkzxBcJ5APwiukyd41ehduqmy1cquijaf3xgeW5sr
+Closed and gathered SOL from fund wallets 10 : https://solscan.io/tx/25AFdBQgSP4NyDX44Mny4JeMYMFwtDBx2nRFMrbaqJ3ZhfC7t1Kj2Yygn5dEbZh8NW2ne41xUXufwzUfn9PXwUCq
+Closed and gathered SOL from fund wallets 2 : https://solscan.io/tx/4qqfsiprDu3AbNs56TrYv3Sru3fdqU42jtqEioxTraFxWaGRumgBugGoQEF9uaHVDQjde7z1tiKdxwic3RwrTPzd
+Closed and gathered SOL from fund wallets 9 : https://solscan.io/tx/5bK7MoJWSWted9bAd5ox86reuH3y2KbXQMsYLG6vGBWQGFsDiFKWj8R7uVnpx1q14MXEYM6jeVSQnpfEH4RGBCKh
+Closed and gathered SOL from fund wallets 16 : https://solscan.io/tx/26KVBAgx14Mn5h4pU5kzD34NavhTwDVichDoRtsQxaemGsJFPbRsz56XRkMiiYtTWFEucE2dMuKEFBkCB4b8AfDU
+Closed and gathered SOL from fund wallets 11 : https://solscan.io/tx/4nphgCRLzMQ4RK1EwdwnuP9o85BKFipA3bnUmbqnCGzs8f36qgeUMFpHCHp18sH2g1yhNMNrruV74RGLTYguzBwb
+Closed and gathered SOL from fund wallets 19 : https://solscan.io/tx/knN8715n63JC7bjwgoHTKE9vqPCUmCaBP4bWEY6GGXNCpSQXmhNXDogbSeEMb5SYS8TPNLUdm8iGSEhUKMqdiEp
+Closed and gathered SOL from fund wallets 14 : https://solscan.io/tx/2DXLVBSYJPciDyB2YWRh9KS9EQYHsA2AnaboDkfYLDTGvT8MqncGDWXa9mWDCYiyjXAroEgeVpg8BGLmASpytdVG
+Closed and gathered SOL from fund wallets 3 : https://solscan.io/tx/4wauesFeM5h4GAy7ucNLBxsQteeVf9XwesuFqRB3C3Pf74KjzdyRLN8GixWJwbryzHHJQtz43tgxeQUYzHFchzBB
+Closed and gathered SOL from fund wallets 13 : https://solscan.io/tx/eBC8WmTB2XNCfErHoy5HKQZV4cEew9u12HTXWGRDKc59dUZqSUCGPPa8riKcWnaGqyhYfidvTtv5M2LNaHkWpww
+Closed and gathered SOL from fund wallets 7 : https://solscan.io/tx/2XAG9kXi5nUBKKRiheUisMgvn1gdCNDcYQ9YJTfNsCcpYoCVAwkYagZXoi5y7dPuMXgQgpBotSow8H6UYDBAvroS
+Closed and gathered SOL from fund wallets 18 : https://solscan.io/tx/2ttPZLZsXBLJJsXugStHnWfaJHa1w2VQ4aSCzZZ6N7CSr5mGQsAMcWuUmUQxYmD9GxLa7T4dE5fB9EQD2UrBBcTZ
+Closed and gathered SOL from fund wallets 5 : https://solscan.io/tx/3mGoUGfmJb7URB96vMPPrUXHGsfuJrUoeeMLKkNYTUjGxCZEV7gCrP3owKNyAG5Nd3AbHKQAfdJ31QkFots1PZmf
+Closed and gathered SOL from fund wallets 12 : https://solscan.io/tx/3ms6o1Rpyfuai5UiTSP7mzWorYfgTJWFfu5N1xT9T9JCtXvW3RmFX4hu4yk3EpCyPEipdbNMgFZ545evQWrB3T5j
+Closed and gathered SOL from fund wallets 1 : https://solscan.io/tx/VmeCnyAxxE7Akf16FFvGDrvfSG2FaPzJXEXBuaSwvLkHDT2Mo4ySkMAQTTEtHDfwwvhgtGTKXxHKCvw9wj87F54
+Closed and gathered SOL from fund wallets 4 : https://solscan.io/tx/5j6Zg1P9cUVLP3ifkWLDRWawxeaFLzPyCMUz6QsQ7KMK26Wemig8bhjcrN3UPqrWcdH2Q8gNoYotSMiV5sjtrNRB
+Closed and gathered SOL from fund wallets 8 : https://solscan.io/tx/5dBhoUmhpifqnYMKbGDKHFgNbbYcrZt4qHCYkkfPKeg2Ev1RnsDRfuMRt1BiRxCXD7C3jpaRcYVDv8wZnUFJKiLH
+Gathering wallets processing is ended!
+Gathering wallets processing is ended!
+0.205230266 Sol in Main Wallet
+Distributing SOL to wallets...
+Mint Wallet is created. Mint wallet address: 39jF6GCGWtMXVULmZ3nVkZqXHwqrniRjxBiXP8BhW2xc 
+
+F8cjKSPKgJaHAPNvrqGW4aP8aUwQCQ2BUwwbrSUAG9yK has 0.008 sol
+FPwk9diZ1JkrMFCKE3dPHWHdjNvUmEusoNtW62xUnVDd has 0.007 sol
+3udrFS8bZGeH39xYFWz1gJNLqk7cje7XuuW58nexCHNA has 0.008 sol
+92mj3d5UujYFRVJsrHYULmM1YNJNS9RLKD8srnsK749V has 0.005 sol
+AQ4kbea5Wy5PV68cg8eXQcEQWCnbRS8efWnbEhXKhKQN has 0.008 sol
+5YMXaRk2okuDwZK42pHGiuX2cQNvXCeoQZsPRGoh3teU has 0.008 sol
+28eYKb2HaVr4DtXXfmdoVZpMXeqfi8YGLnemnesPbdqC has 0.008 sol
+29FV5NDZpicYECN1T1fGPYQqavq1xQjYauMy6iAsmtTi has 0.008 sol
+Bq4PhXFZeLrUTYcTKiBCMaUroVE8UW7iayDJggVzvxdx has 0.008 sol
+CQUJKpwiu2XM2WPDMAcd7wZUMEJagZhzWPMEF282YfBv has 0.006 sol
+8wWLQnhuAXweetmE3ghUPJ1smWe2DxEqfGmuZn6rvB15 has 0.007 sol
+BdNBhZU9g1KDHBCxXaamVvVwrUUAUvaQennpjrmwki8Q has 0.006 sol
+66zoiwexWGjU6iaTKh5EHyrTVpMzHibZYuGSt1M9kt9w has 0.005 sol
+DkqZ5ehyWYQcXHCDXKLUAWibhdUVF7caJCzUez7CKjXj has 0.006 sol
+AoYEjebWnEYpLYNWKQJVB7wq5dX9dwiyQgQm2amkSa4H has 0.007 sol
+H1nC3VUisT9NCHcro4c3disY4aLuAdmfB1mwVazgJ55b has 0.007 sol
+76pjYSo58xEDbqM92duqgftjkMhZCDWsswvnFKxkswds has 0.007 sol
+uar19utagrntTS97fMnMA7SqrsiTDdhCFQymQTyLK9H has 0.005 sol
+8LqwW4dJAdRovtxXSngoNeBCoS8nn9PoejWRtFFg38nV has 0.008 sol
+3zr1VHCrHyD78LJDpUY3bFpNyKWsGpZ5tMRwLK5bRiwH has 0.008 sol
+Success in distribution
+
+Creating LUT started
+Lookup Table Address created successfully!
+LUT Address: FQvvcPAXo3cQY1HP46kEEiUAHesMQLC6ZN9dPDsV55sc 
+
+Successfully added wallet addresses.
+Adding atas for the token 5zbC66K6SE4vd6XLg8aKSEW4URK8xeEXoVUrRuBeAVmo
+Base atas address num to extend: 20
+Successfully added base ata addresses.
+Successfully added main wallet address.
+Lookup Table Address extended successfully!
+Lookup Table Entries: https://explorer.solana.com/address/FQvvcPAXo3cQY1HP46kEEiUAHesMQLC6ZN9dPDsV55sc/entries
+Closed and gathered SOL from fund wallets 7 : https://solscan.io/tx/3Tx34Q6VLGRBUMSCaWGfwEd8Wt8e5HJxc5nXj9DrYJijqZW4PBArzz8qEHtkQ52FJq3aRH5ThWbskMCa6rh1g1Pv
+Closed and gathered SOL from fund wallets 1 : https://solscan.io/tx/3m8AaDS8vZmBTMWXaGuN6TgL2BcopUTBX4yvCEwjoJxAC87QgkRRJoc8H3vGM2A9uxauPGv8uPo6C6v2vAuwxD64
+Closed and gathered SOL from fund wallets 2 : https://solscan.io/tx/2Ku7jbC2cT1UaYTuRrfVQeNgjLFDyWiinyuvAW12nECrTehpUZcA8LTMVga1EFFJuMVAKMuEDyMgz1Mk6TL1chmW
+Closed and gathered SOL from fund wallets 8 : https://solscan.io/tx/4kb53dcYHng25iJEj82aUNHkjzuYyDHMBkDpj2Svf7Gjms326WJmaJfmmxaZK726NutUhMqDpnPJ9nFz5QAPhHpg
+Closed and gathered SOL from fund wallets 3 : https://solscan.io/tx/4KH46XiFiheesQFfyUQ9C9Q46M8xmEZNQB1VegstFqaTFvmwpPnSf3eKCutF6bHFDFbFDEV1QCJxvDLpS4uTFa93
+Closed and gathered SOL from fund wallets 9 : https://solscan.io/tx/4MSTRxiumx6kky4Fmc8bXdmLRu52bqnZmRR4U6HRG2B4m4DGZa4JWJbjbJsDX7HmYzTCYqiKweac7LYTAxRRygTk
+Closed and gathered SOL from fund wallets 10 : https://solscan.io/tx/43w5ct6QtQkkpBkvx5jSmUnfrNa7if2XiFGCJ4L5cTNvXsMG2xxoDCASaez2PNqAwkjw75N6rwtJiK918JBnr7Mm
+Closed and gathered SOL from fund wallets 6 : https://solscan.io/tx/4Mw2BTMCxyQZWSpj69pxy2Ggkd7tKFRfvfEfqvgvqfJzh9pgpiw9skGSEBP2M95c2UbGP6KAPYwsDmszvGLYNM9G
+Closed and gathered SOL from fund wallets 5 : https://solscan.io/tx/nnpb4aZ4JWEPGhXR3ftu1mDQ1fwFGZd8tkDschqk1wX8xc51aaz6SRMEU2qaom68XUVBYY3s4h1orAmvfMWis6i
+Closed and gathered SOL from fund wallets 4 : https://solscan.io/tx/3SgenrAZYuZSGQptmPUwhoUu9Lb79H3jSdkkfySsWLGYayeBcX3TymH6WpwV8wSQHU9mjGj5fTMHyfxWcAWfbr84
+Closed and gathered SOL from fund wallets 0 : https://solscan.io/tx/56E4x2CDXA5AX5Z6Nc2yWKjAcnh4tbCm1pLR9TZCGQNMTDs9JkdLFLxbY3iJrS9ZXPKmG8t8YDZivxBA1LXYpx7p
+Closed and gathered SOL from fund wallets 17 : https://solscan.io/tx/2hfLkdsHUqvbgVXyZk32xeUx3QEPVp5b37p8Ziy2cQB7RbQTkPd4wcJxtwUzgQyKUuXDkdy7vyE3EF9vBG78FYj8
+Closed and gathered SOL from fund wallets 14 : https://solscan.io/tx/vAfSoFFubSn3eSnEZXtWceDjszfqvqDUa3e8B8DNv66GXaQuo6KtNrRAMMGXan9Z3DgqerRRQh8wKNJCxv5cmfW
+Closed and gathered SOL from fund wallets 16 : https://solscan.io/tx/3rGr3pGaL8NQgA8iUrvMuhPGJj7nCqt5ZTufLeu9RcvgrLGgPwxMdGN8mwefemBTvUj8jM2yauzkK1YyA1CingM6
+Closed and gathered SOL from fund wallets 15 : https://solscan.io/tx/4scCAdvPxZWrxccmgWmQbFDrxcVU13qKhMpCvayYgwUoueqdigdeCuzswt4SzfdmDwQB5FE5whAKyq76TMoZu9PG
+Closed and gathered SOL from fund wallets 11 : https://solscan.io/tx/5ghC5z9iw4wjtfnqT7b1zSX8Nz1ucR5Jfznn9PHAwPwGZbMmnY2rFAB5KgwfSfskZ1utmdUDYL6eDkb5gV1HkXRc
+Closed and gathered SOL from fund wallets 13 : https://solscan.io/tx/4c2uEzJa9FWDgMxGQtXBdMdcaxw2gropLXmvsZxWLD2ToUiLEnLCTtZhXgJQaEfk45xhr3ESp822ZKSXNf2Me8Qn
+Closed and gathered SOL from fund wallets 19 : https://solscan.io/tx/3c44nKpA727CwBLvKHdXuzzdDKg8pUVk48EUGULCatYYLLEoqEkQq5uraSzMWTf2n5oV1RYGZFmtMqwyqM2bZjiU
+Closed and gathered SOL from fund wallets 18 : https://solscan.io/tx/42e6cQsipxWW9YFXCCLX83rrfv1yFEcVLgpJkW9rn7GEVgvu8UuDSkb7J76ocz1JwfJw4yBRSqMwSv2iVbM3BznY
+Closed and gathered SOL from fund wallets 12 : https://solscan.io/tx/5QyaRFvgyG6QPhH8JkcKASXZo9feM3w7urScTa4eHYm5qsqCqXurYVDby1FyiHYLKDwfoUhCo49qPBVp9AopxxbG
+Gathering wallets processing is ended!
+Gathering wallets processing is ended!
+0.190771346 Sol in Main Wallet
+Distributing SOL to wallets...
+Mint Wallet is created. Mint wallet address: 39jF6GCGWtMXVULmZ3nVkZqXHwqrniRjxBiXP8BhW2xc 
+
+8NHhoCh3azCNCDjH136jAb2dXHtWKzBCjsrNr69Rh9Ky has 0.006 sol
+FZknXRYfcrHK8eSNT8dyVG9JiQiivJy993p4aUJSaTC4 has 0.008 sol
+7i26pw5Yc1AzTMmTicb4m9uZBTPTbDTAGSwuFLqjLABn has 0.008 sol
+9uARDYp5iZyjsMo8cnpL3Eb1rYq2kqYsxhGMSQUpw2rq has 0.007 sol
+3g5ugYw1wDdTebry8KKxE8b8mRpLxVSDsVwsii2S314S has 0.008 sol
+5UEhF5SAXaDB1Pkc4LH7RRekfuhzcBahxJmG8GhDY9wR has 0.007 sol
+EQXFGkpLMt9an1nNHGRTLz5MaPPvkGwGT7CfGBAKQ2EC has 0.007 sol
+Hcs4SwsSbjCWZLYDeApwRJV5XYYxoLJuvnNrYJroHGds has 0.008 sol
+vurLhhWuRFxv4tKcxxQF54PLwiWtUX1zkcwkc3iJYLg has 0.007 sol
+56bDQLR3TimxGBAN5MW5hTqMMRr7Xp4dHqWxGUAUQy2L has 0.007 sol
+55Ww7qeczXPGXnZTg9LGxxUDVDoQQSad1TajMQFtDEhD has 0.008 sol
+BWxQcfecuDsTSxSyNyjqbkSequHZb1pPCaEKcdrpaG5n has 0.008 sol
+ECsPVwoG9m65iaZRcS3PQu9c7rGdpf9ZrFXrq5T6dzmz has 0.006 sol
+FzSwDqXUYJZCHusBA9AvxvaLVY4df5zryyxP6dpgFVUW has 0.007 sol
+FBS5yndxMZnDFqKf3YUPnCTVfKWZAX19noW3HiyQ7zSf has 0.006 sol
+Hn1vfTQPxUmgHS3dys5VUaYDYXgxD2k74q7UvzAS3KTC has 0.005 sol
+GnJio858ukKncu1AXGHEFpq3jk9ZvagjpSccNCvcfuh4 has 0.006 sol
+PCr9bdNNyb86JLH5BrypFr5wAP6DNxP6b8uuKz2cuLH has 0.007 sol
+B6cvVW1ageHGG6qoBJYRq86cfXqPNW9vPdhh1JqdXtHA has 0.008 sol
+HW67c3vXRz1LAQ9qvaCP1FC5E9pwMDsX7CT7yoN1sQJk has 0.006 sol
+Success in distribution
+
+Creating LUT started
+LUT Address: FQvvcPAXo3cQY1HP46kEEiUAHesMQLC6ZN9dPDsV55sc 
+
+Successfully added wallet addresses.
+Adding atas for the token 8MbAPDckZSMxH4TiJfRbaRuxazY81tnZbmSPxarDYhD1
+Base atas address num to extend: 20
+Successfully added base ata addresses.
+Successfully added main wallet address.
+Lookup Table Address extended successfully!
+Lookup Table Entries: https://explorer.solana.com/address/FQvvcPAXo3cQY1HP46kEEiUAHesMQLC6ZN9dPDsV55sc/entries
+Closed and gathered SOL from fund wallets 4 : https://solscan.io/tx/3BBSdFD1F27J88D7sovystnZ2pQVy2akThNwXN9PfeeedpwdkfsGXtZeRiThSKvrTKQmxnjRGT6P3DxkU5P3zmGe
+Closed and gathered SOL from fund wallets 3 : https://solscan.io/tx/3TiP8Qz7N9y7chFcpzFCTGjxPVCfSbbqSnVoE2YqWZrujBjo8WfDXjDLmjntPEoAazDVDBHP4b2ZyNYVukJTznWs
+Closed and gathered SOL from fund wallets 5 : https://solscan.io/tx/64n1ZBU4nbrMd9pQbLPBh37i2MqdXHqg1d54g3rE98jfnrQnLHjPHedZCJpD11xiaZBiXPbdzcuoccsWgSmW2zu5
+Closed and gathered SOL from fund wallets 2 : https://solscan.io/tx/TP7MViRnYyQ6uAx3VUqxnbx9ZabtZyNx3KUe7dkthMjWHQceRphiFgXA88W2DKEC9qxKoEF6cMgQTCmCLveGFqd
+Closed and gathered SOL from fund wallets 6 : https://solscan.io/tx/3gKTyRsaatb66SkJA5uharYWiiEZSvcuZEgBZyfBRN4dvduzFxynfCCPBoNGzsoEap9SvQN8MdKMPa4Mvuzk8ojW
+Closed and gathered SOL from fund wallets 12 : https://solscan.io/tx/SW7KGRdAZs8nApzxexGYtjyNNMi4WAv68L8qc1mBHo6HYMnd27gwfjkkG3uJS9BrTXKGxv2pqsQnhuCqC6m2jnj
+Closed and gathered SOL from fund wallets 19 : https://solscan.io/tx/BqTfX2u5znpDuA4fF2q5izmenyicLytpPUd7p9oCHq7qdVyupE1D5s28G3NksXEdzA9RS3jeB3VM8QX3eP2sgau
+Closed and gathered SOL from fund wallets 15 : https://solscan.io/tx/fWhsCmG7uUgW3w3nD6GUPpE5YgfARe6j8fVwDvko2yYeQ2gDjnHQRgMPr8NydJsQcM9hvibVfknweXVTadbj6uc
+Closed and gathered SOL from fund wallets 18 : https://solscan.io/tx/4wMjLbZ3py2AQ7qezHLJNuhTy2mvWQtSxGua58ZbwwayScQg6a1V3AHm961RwjP5XTJzHEbjdeoHeUHJRkAGwKfX
+Closed and gathered SOL from fund wallets 8 : https://solscan.io/tx/3sxPr183Ct6MV5LfXUMym6mJetvgS9yHe3S4VCA3Chu13UwRE2wWJAr7q7Hxu37S72WRw14hBgM2UmSaaoZ8NXqw
+Closed and gathered SOL from fund wallets 16 : https://solscan.io/tx/PKbNfFh4J4DARb6DYnDqKYtXW3VbYGm44BrYJocncq8zKBquJHFWpWu977eyihTF4zqsfntZeWqDrM59sYgT1ji
+Closed and gathered SOL from fund wallets 0 : https://solscan.io/tx/3q1cQtUqCe35eUArwwQtUQYdEZmuLqSAWAMfXmpQzWp6oqbauvLcSqbrqMD1uh6rW5i1FjivnQ9Jad23rf9yHsux
+Closed and gathered SOL from fund wallets 9 : https://solscan.io/tx/B9c9Rfs1FSKmfz8XqTsNnuzLGZ6pqBzuKdNoHjCmcgurqrswqiuwQTmCzdPaLFxCd5NKEJBvMxdGcvrxJwKnkUx
+Closed and gathered SOL from fund wallets 13 : https://solscan.io/tx/3rfWYea33oShDfQhcpxposqbjBFe3jzqCXRCM8yAjrp73w7eb3PvTowNoSusGtGVmYeSy51mYMosD1TD3Z2W2j7h
+Closed and gathered SOL from fund wallets 14 : https://solscan.io/tx/8AjxR2HtupRBhPgY34vrn8JgpjpTEtkeV1wmXepxaXBgbqEcxiZJb452ceN33879f8KKyRCPRAwwGeM3eocQnc4
+Closed and gathered SOL from fund wallets 1 : https://solscan.io/tx/2F4fbwm1YRv6a7RZVXS6EcWLXZkJSBfbAsT2uDHoTSGK9rZ8wtkq5PGYHA3Ns6roa19a64z8LFetVvnKfCZrARVU
+Closed and gathered SOL from fund wallets 7 : https://solscan.io/tx/2gWMW6dpKDegd4eCd23Ut3VSRtxyc6N93apK7CPSarZMWbA3gnh2BubxJtVwzodsvtUyEFiHaYu8PFeqfzqbpPw3
+Closed and gathered SOL from fund wallets 17 : https://solscan.io/tx/25E2q13KJCG1NRAADgKkEyQZzTpbpHji54fSZHgobFKWLAJ92snUjMmf434gFR8Vm6X1bLAzkyyGXMn3QbxPF2m2
+Closed and gathered SOL from fund wallets 11 : https://solscan.io/tx/pvgKfHULGnHhesdsY9F3c142Fk4Th8vcz4s6j5XfGbRZpddQ3NZnQd8FJHQHUxaGYqGb61a4mkMqAWTXhqZfxnm
+Closed and gathered SOL from fund wallets 10 : https://solscan.io/tx/2sfYVDaKBCEFLkGLdaAcwMF7Rtqy6xrEb3sMy5vfa9yfATeb2P2FkwKjcoWkUiTgRGwvg676sNbdVRa6Zo14Ha1r
+Gathering wallets processing is ended!
+Gathering wallets processing is ended!
+0.177698466 Sol in Main Wallet
+Distributing SOL to wallets...
+Mint Wallet is created. Mint wallet address: 39jF6GCGWtMXVULmZ3nVkZqXHwqrniRjxBiXP8BhW2xc 
+
+AsrtJBCjxF8T7vCaWwjAiNs3k3rPp1t88ZDBtMbjsVak has 0.008 sol
+EPwqVwHLupYvRQ1zRPMtsS1BaFue8nAJiGHSs7kuJVok has 0.008 sol
+2M4U2X9JTyRgSTqdDorjFFnM5nmab8zZC8rCNnFUn6M2 has 0.007 sol
+8rn4NcH1TsvvCoyTCXz98QzZcJE8GCGvHgw4mvxySajm has 0.005 sol
+ABZJY5YemnYoa4LHAgB5VorJtiLRFm7sE7GiRPQK3esu has 0.005 sol
+7sRGnTdvXumww2gRx9tuW6cffb7DUMuu5xgiRxpikHsT has 0.008 sol
+7xz3tSLjNag2ZeJSD4Fp1GRUapp8B7K8LCs81w5GiiLA has 0.007 sol
+ABskW1wXW8zt6qRciKVX5NePHeLfWySa1CP5Wc1vz7jo has 0.006 sol
+8tHkjqAmsaKJUQq1yQXa9KJ4tQ9LriJeW1hG9gCvNGF2 has 0.008 sol
+3yjZXco72Y8E2UTnfxWZGMv5Xq7Xum5i6Hn9KbtWV5cA has 0.008 sol
+BivV7LezbL48jmnsFqVZVaSf1T7nTdwAus9kphiUeXE9 has 0.007 sol
+6QVxhYNYhtBsbJbBDfCzBfgZ81ethoyoFkdTjxHokC6u has 0.008 sol
+CfMshwp4SxCxNS48PG5LQ9R15wJ2Q8BSHQ26g9v7JCw1 has 0.008 sol
+2jH4KwRP5Dvy5a87EbCpRFc2TBSsxsVpzfuxXUoMX31c has 0.008 sol
+FjVpLsfp1VWYLTU28vLqXWoWwiUEsowgLwpAZXEvH9fW has 0.005 sol
+3uzEVPHkV3GtJYVY1uAwp6GpWDvLt1FF4GJmiT4NCtPF has 0.006 sol
+3RoQAARBPALAD3j2x6hr8v3jP7hJSKddLA2FaXvy6RRA has 0.008 sol
+5vYjD5bhXtSNsZ2iYZ8ZoJmZLS5y8VUVAG3s6TroMpYK has 0.008 sol
+85HM8G1HtWMtz3HVaNitx5BiJ65Jv9pnnkmukBA2H5P1 has 0.005 sol
+2P8yNkmhN6sdBDLrczmk2svR9d3iPVZpmuu5EPymeF1C has 0.007 sol
+Success in distribution
+
+Creating LUT started
+LUT Address: FQvvcPAXo3cQY1HP46kEEiUAHesMQLC6ZN9dPDsV55sc 
+
+Successfully added wallet addresses.
+Adding atas for the token FdADoPge6mNwHTpjyZJtMkinNmSoX7zKBARGDDePzrds
+Base atas address num to extend: 20
+Successfully added base ata addresses.
+Successfully added main wallet address.
+Lookup Table Address extended successfully!
+Lookup Table Entries: https://explorer.solana.com/address/FQvvcPAXo3cQY1HP46kEEiUAHesMQLC6ZN9dPDsV55sc/entries
+New Mint Address: https://solscan.io/account/FdADoPge6mNwHTpjyZJtMkinNmSoX7zKBARGDDePzrds
+Create token and Buy jito signature: https://explorer.jito.wtf/bundle/2Ma9c4HSU3HqYeFQuqDCUKUFJtTqbBQqPiuykp212DPJmRbYdrvffLrZyBnn3Q1KBEGDxK14UVnydEmuFQTfzvwQ
+Sell jito signature: https://explorer.jito.wtf/bundle/nxdyDF47mSiTVCSR3LHDtfaA287gk8pfpf644oXV8j6YRBLnpNP4Q7hoqpQhkvNk6APFnzzdQ3y5sUmqF9ZoZ4i
+Wallet address & balance : AsrtJBCjxF8T7vCaWwjAiNs3k3rPp1t88ZDBtMbjsVak, 0
+Wallet address & balance : EPwqVwHLupYvRQ1zRPMtsS1BaFue8nAJiGHSs7kuJVok, 0
+Wallet address & balance : 2M4U2X9JTyRgSTqdDorjFFnM5nmab8zZC8rCNnFUn6M2, 0
+Wallet address & balance : 8rn4NcH1TsvvCoyTCXz98QzZcJE8GCGvHgw4mvxySajm, 0
+Wallet address & balance : 7sRGnTdvXumww2gRx9tuW6cffb7DUMuu5xgiRxpikHsT, 0
+Wallet address & balance : ABZJY5YemnYoa4LHAgB5VorJtiLRFm7sE7GiRPQK3esu, 0
+Wallet address & balance : 7xz3tSLjNag2ZeJSD4Fp1GRUapp8B7K8LCs81w5GiiLA, 0
+Wallet address & balance : ABskW1wXW8zt6qRciKVX5NePHeLfWySa1CP5Wc1vz7jo, 0
+Wallet address & balance : BivV7LezbL48jmnsFqVZVaSf1T7nTdwAus9kphiUeXE9, 0
+Wallet address & balance : 8tHkjqAmsaKJUQq1yQXa9KJ4tQ9LriJeW1hG9gCvNGF2, 0
+Wallet address & balance : 3yjZXco72Y8E2UTnfxWZGMv5Xq7Xum5i6Hn9KbtWV5cA, 0
+Wallet address & balance : 2jH4KwRP5Dvy5a87EbCpRFc2TBSsxsVpzfuxXUoMX31c, 0
+Wallet address & balance : 6QVxhYNYhtBsbJbBDfCzBfgZ81ethoyoFkdTjxHokC6u, 0
+Wallet address & balance : CfMshwp4SxCxNS48PG5LQ9R15wJ2Q8BSHQ26g9v7JCw1, 0
+Wallet address & balance : 3uzEVPHkV3GtJYVY1uAwp6GpWDvLt1FF4GJmiT4NCtPF, 0
+Wallet address & balance : FjVpLsfp1VWYLTU28vLqXWoWwiUEsowgLwpAZXEvH9fW, 0
+Wallet address & balance : 5vYjD5bhXtSNsZ2iYZ8ZoJmZLS5y8VUVAG3s6TroMpYK, 0
+Wallet address & balance : 3RoQAARBPALAD3j2x6hr8v3jP7hJSKddLA2FaXvy6RRA, 0
+Wallet address & balance : 85HM8G1HtWMtz3HVaNitx5BiJ65Jv9pnnkmukBA2H5P1, 0
+Wallet address & balance : 2P8yNkmhN6sdBDLrczmk2svR9d3iPVZpmuu5EPymeF1C, 0
+Closed and gathered SOL from fund wallets 0 : https://solscan.io/tx/9vJDKgcSTE4RqRcSBhTnQ4UPV66rZTRihdSMP8ChzZxUYb3MNFuCQ7jQTamdqEW45yAWnrmyK1PKDoaz4WfL2YX
+Closed and gathered SOL from fund wallets 1 : https://solscan.io/tx/31ssZi2kFih8Jw6UL2ZQVQTBDVQeoiLvtzYCb5nZqXHk6Xfk7bJVac4r6cPv3uCT6HjtcdBpdLu7wqB8JaHWw1za
+Closed and gathered SOL from fund wallets 2 : https://solscan.io/tx/4UrkQuE8JHoxsrDkQVV5iGkecgN93sfCRKgBs4xWHoPkqQGFMeBCVUBqGZaS8TyykV8CtQnQGqNCVNCRgmUkd1nc
+Closed and gathered SOL from fund wallets 5 : https://solscan.io/tx/5XLvKbmrfraNfGG1LbBosir6EbCDk6Ju1rYsEp78rQughpktU8moVXy4dgBoCyV9wKeHMjGkzDnU9t4L4qdJRtTm
+Closed and gathered SOL from fund wallets 3 : https://solscan.io/tx/2VqNqdda4zhX85hLaKL2BzTWSexAU7mirEodHsoAVHutXcAWn811WjFVem7D5qyE1QyaAFP4WLNcVfxxDKFu2Yqa
+Closed and gathered SOL from fund wallets 4 : https://solscan.io/tx/2zy7cX81qw5wD65dNQ4Ac1iyKYY9DzkJqfVqFz9SmfKTpLuzTtqudzUQtZJqAUpphyXiBfNmmUb8yTWBQEtHQuZz
+Closed and gathered SOL from fund wallets 11 : https://solscan.io/tx/3PnrNK22VUZrE5JcJEnhSVJC87dQzM97z8Yp1JPUmCt9PnwYk2SxGurUGBKp8kQ3KLwPjw7QLHpqsKzbkPWYyKjn
+Closed and gathered SOL from fund wallets 13 : https://solscan.io/tx/3jTxUhrA99JqsASo5Mt182n4ChqgbYncZBSXbdzbGmJhSB8GFyCfupEAiSed3q6aEea3dngv1spseHDPPaeg9XHW
+Closed and gathered SOL from fund wallets 12 : https://solscan.io/tx/CKDqj5uNB5p9qXd4ChGorgGr8aF8CjrHNBmw2VWiKdxYLJQGBMtGvsJcx3vStNZd3PceCcgXAQU5YZ9cGejGjN9
+Closed and gathered SOL from fund wallets 15 : https://solscan.io/tx/2qsa2teMSD8YdJVxR8JjLVHmPXyB7yVVcFKYFoUJy9FSe3vSZz5ePbakdgLY6xMa41CrU5srATyTaTSkweom8DGa
+Closed and gathered SOL from fund wallets 10 : https://solscan.io/tx/CDyJi99NfxMQc89dTkvnMcoD4AwbDL3gWJTSXziJ7GdekCnvPTstZrUPkykkatNBxD7WkQHbPJ46hVC17axhieF
+Closed and gathered SOL from fund wallets 17 : https://solscan.io/tx/4Jpe3zMRKC3dyBmAFGBPSEusFSQTMm6kC2LPHMRcw99hkLWK3EDQGggzhyWsxRUUDzhrHkxWHYpEgbrJfbEBjh84
+Closed and gathered SOL from fund wallets 9 : https://solscan.io/tx/3b1JZdZMJ9u9pPPzV5P23szntXdmfna5tBDYef1KAtBrzCEwsKZnYPHuft4YHMeYCW1Z7tgafPNzdomyQkhWeb2i
+Closed and gathered SOL from fund wallets 8 : https://solscan.io/tx/4vhhwmjUEtqzSurDg7atsz41Wt9eLFDqVXoX7LTS9JbhpxHhWzw6k5v46sgs5Z5gZHRNAYXuCQ4KgBW6zvzNX8Cp
+Closed and gathered SOL from fund wallets 6 : https://solscan.io/tx/3dhdViVuZEvwSCQqGH1JU7bQJzSapr5KkC8DVKxjQTT4x2v4uhhpokj8kVMU2RWV5wNyWoBFFRRUAQuSBzszgmMc
+Closed and gathered SOL from fund wallets 7 : https://solscan.io/tx/3BRGELV2u25QXLv1r3N5AgwssE65dvArBNtqs4V5i72ukTp4HMJGp1UcCN1E59jCSaEswPBFd9T4XAhL51rBjugH
+Closed and gathered SOL from fund wallets 14 : https://solscan.io/tx/5UKPZVo49Nv8i7XxMQ2qSj1F4CcBwf7xs6bGqsurXo77znsz1DR4rK2CFA1Knm1kFX3PvsH3vsJCqjjsWgjQaZ2o
+Closed and gathered SOL from fund wallets 19 : https://solscan.io/tx/3j7gpQrA4HbVBVq7g9EQbeCnAL1UkdmmmgNa7Vd4JECk4cA4v7Uhvf2cZKuK34XBHiLyiVdssvju4fScqoBaXVtF
+Closed and gathered SOL from fund wallets 16 : https://solscan.io/tx/4hm6baukPNaaJyueQBgsiFkDXaYR9KsFuU3pP8vKSFL9Ay5zA93PjCo53qv257QzrdiGkizJfRFSKvDkf35z2GAi
+Closed and gathered SOL from fund wallets 18 : https://solscan.io/tx/EpAYFqT92isWJqFV5W4o5vf8Q1y5rhq1rQMoPapFyaqGbwrCamz81LGucSoZ9LRqYVW15sZsx1w58SReQu9SMzm
+Gathering wallets processing is ended!
+Gathering wallets processing is ended!
+0.138945162 Sol in Main Wallet
+Distributing SOL to wallets...
+Mint Wallet is created. Mint wallet address: 39jF6GCGWtMXVULmZ3nVkZqXHwqrniRjxBiXP8BhW2xc 
+
+
+Creating LUT started
+LUT Address: FQvvcPAXo3cQY1HP46kEEiUAHesMQLC6ZN9dPDsV55sc 
+
+0.138945162 Sol in Main Wallet
+Distributing SOL to wallets...
+Mint Wallet is created. Mint wallet address: 39jF6GCGWtMXVULmZ3nVkZqXHwqrniRjxBiXP8BhW2xc 
+
+Main wallet balance is not enough
+failed to distribute to fund wallets
+Gathering wallets processing is ended!
+Gathering wallets processing is ended!
+Gathering wallets processing is ended!
+You don't create token and buy yet.
+first you have to go step 1
+
+Gathering sol from bundler wallet completed!
