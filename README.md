@@ -8,9 +8,8 @@ This bot is designed to to create new token and launch new pool with new token a
 - **Token Creation**: Create new token with vanity address.
 - **Launch New Pool**: Create Market in raydium and create pool in Raydium. Create new pool in Pumpfun.
 - **Bundle Buy**: Buying with more than 20 wallets in the same block.
-
-- **Sell Mode**: Gradually sells all tokens in sub-wallets through small transactions.
-- **Token Pair Settings**: Configurable token mint and pool ID for swap operations.
+- **Sell Mode**: Gradually sells all tokens in sub-wallets through small transactions or Sell at once from all sub-wallets.
+- **Token CA Settings**: Configurable token mint with Vanity address.
 - **Logging**: Supports adjustable logging levels for better monitoring and debugging.
 
 ## Environment Variables
