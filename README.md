@@ -179,6 +179,6 @@ If you have some inconvenience, then let me know, I will update it like what you
 
 Discord: takhi_77 in discord
 
-Telegram: [@Takhi](https://t.me/@Takhi_77)
+Telegram: [@SolSon](https://t.me/@pio_sol)
 
 You can always feel free to find me here for my help on other projects.
