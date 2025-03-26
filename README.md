@@ -177,8 +177,8 @@ If you have some inconvenience, then let me know, I will update it like what you
 
 ## Author
 
-Discord: Takhi77 in discord
+Discord: takhi_77 in discord
 
-Telegram: [@Takhi777](https://t.me/@Takhi777)
+Telegram: [@Takhi](https://t.me/@Takhi_77)
 
 You can always feel free to find me here for my help on other projects.
